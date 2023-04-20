@@ -1,0 +1,3028 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva het Olav Tryggvasons gate før?",
+              "id": 810,
+              "answers": [
+                {
+                  "answer_id": 819,
+                  "document_id": 638,
+                  "question_id": 810,
+                  "text": "Strandgaten",
+                  "answer_start": 495,
+                  "answer_end": 506,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble all bebyggelsen i Olav Tryggvasons gate ødelagt i brann?",
+              "id": 811,
+              "answers": [
+                {
+                  "answer_id": 820,
+                  "document_id": 638,
+                  "question_id": 811,
+                  "text": "i 1841",
+                  "answer_start": 516,
+                  "answer_end": 522,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble Jugendkvarteret i Trondheim bygget?",
+              "id": 813,
+              "answers": [
+                {
+                  "answer_id": 822,
+                  "document_id": 638,
+                  "question_id": 813,
+                  "text": "i 1908",
+                  "answer_start": 1268,
+                  "answer_end": 1274,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem tegnet bygningene i Jugendkvarteret i Trondheim?",
+              "id": 814,
+              "answers": [
+                {
+                  "answer_id": 823,
+                  "document_id": 638,
+                  "question_id": 814,
+                  "text": "Hagbarth Schytte-Berg",
+                  "answer_start": 1287,
+                  "answer_end": 1308,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilken stil hadde Folkets hus i Trondheim opprinnelig?",
+              "id": 815,
+              "answers": [
+                {
+                  "answer_id": 824,
+                  "document_id": 638,
+                  "question_id": 815,
+                  "text": "klassisk funkis",
+                  "answer_start": 1006,
+                  "answer_end": 1021,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor løper Olav Tryggvassons gate i Trondheim?",
+              "id": 816,
+              "answers": [
+                {
+                  "answer_id": 826,
+                  "document_id": 638,
+                  "question_id": 816,
+                  "text": "fra Bakke bru i øst til Prinsens gate i vest, der den fortsetter videre vestover i Sandgata",
+                  "answer_start": 366,
+                  "answer_end": 457,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem tegnet det nye Folkets hus i Trondheim?",
+              "id": 812,
+              "answers": [
+                {
+                  "answer_id": 821,
+                  "document_id": 638,
+                  "question_id": 812,
+                  "text": "Jakob Holmgren",
+                  "answer_start": 878,
+                  "answer_end": 892,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Olav Tryggvasons gate (Trondheim)\nJugendkvarteret\nMathesongården\nThaulowgården\n:::Se pekerside for flere forekomster av Olav Tryggvasons gate.\nOlav Tryggvasons gate er den nordligste av de fem øst-vestgående tverrgatene som Trondheim fikk ved den nye byplanen av 1681 – se Trondheims historie. Omtrent på samme sted gikk Nedre allmenning i middelalderen. Gata løper fra Bakke bru i øst til Prinsens gate i vest, der den fortsetter videre vestover i Sandgata. Olav Tryggvasons gate het tidligere Strandgaten.\nBrannen i 1841 la all bebyggelse i ruiner, men i løpet av noen år var gata gjenoppbygd med toetasjes tregårder – de fleste med forretninger i første og leiligheter i andre etasje.\nGården som huser Nova kinosenter på hjørnet av Krambugata er Folkets hus. Her lå Grand hotell, inntil arbeiderbevegelsen kjøpte eiendommen i 1915. Det nye Folkets hus sto ferdig i 1943, med Jakob Holmgren som arkitekt. Gjennom mange år holdt Sentrum kino til i en del av bygningen. Folkets hus var et godt eksempel på klassisk funkis inntil fasaden ble forblenda med murstein. Gården ble i 1994 fullstendig ombygd innvendig til flerkinobygg.\nKleingården vis-à-vis (nr. 2b) danner begynnelsen på ei husrekke ned langs Krambugata som ofte kalles Jugendkvarteret. Bygningene er bygd i 1908 og tegna av Hagbarth Schytte-Berg.\nMathesongården på hjørnet av Søndre gate (nr. 14) ble reist i 1898 som manufakturmagasin for kjøpmann Jacob Matheson. Bygningen er et eksempel på såkalt Berliner-renessanse, tegna av Karl Norum.\nLysholmgården er tegna av Arne Vesterlid og ble i 1933 reist på tomta til tidligere Lysholms Aquavitdestillasjon. Bygningen er et eksempel på tidlig funkis i Trondheim, og kjennetegnes særlig av det asymmetrisk plasserte skivetårnet. Gården hadde fra starten butikker i første etasje, restaurant i andre og kontorer i de øvrige; fra 1999 utgjør gården en del av kjøpesenteret Byhaven.\nNr. 40 på hjørnet av Munkegata mot Ravnkloa er den såkalte Holbæk Eriksengården – også kalt Klüwergården. Den ble bygd for kjøpmann Lorentz Diderich Klüwer i 1899, og er tegna av Lars Solberg og Johan Christensen. Stilmessig kan bygget karakteriseres som historisme i romantisk retning. Den var opprinnelig bygd som varemagasin, og rommer i dag forretninger i første etasje og kontorer i de øvrige.\n\n\n",
+          "document_id": 638
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva var funksjonen til et prospekt?",
+              "id": 825,
+              "answers": [
+                {
+                  "answer_id": 848,
+                  "document_id": 641,
+                  "question_id": 825,
+                  "text": "å være en saklig og nøktern gjengivelse av ett spesielt landskap, mest mulig perspektivisk korrekt gjengitt",
+                  "answer_start": 158,
+                  "answer_end": 265,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når oppstod prospektet som sjanger?",
+              "id": 828,
+              "answers": [
+                {
+                  "answer_id": 850,
+                  "document_id": 641,
+                  "question_id": 828,
+                  "text": "på slutten av 1400-tallet",
+                  "answer_start": 367,
+                  "answer_end": 392,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble de første rene landskapsprospektene produsert?",
+              "id": 829,
+              "answers": [
+                {
+                  "answer_id": 851,
+                  "document_id": 641,
+                  "question_id": 829,
+                  "text": "på slutten av 1500-tallet",
+                  "answer_start": 837,
+                  "answer_end": 862,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor var prospektmaleriet plassert som en av de laveste underkategoriene under landskapsmaleri på 1600- og 1700-tallet?",
+              "id": 830,
+              "answers": [
+                {
+                  "answer_id": 852,
+                  "document_id": 641,
+                  "question_id": 830,
+                  "text": "fordi det ble vurdert som en mekanisk etterligning av virkeligheten, ikke et landskapsmaleri der kunstneren hadde valgt ut et spesielt pittoresk motiv, eller dramatisert og idealisert motivet",
+                  "answer_start": 1229,
+                  "answer_end": 1420,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilke to hovedtyper av prospekt har vi allerede fra 1500-tallet?",
+              "id": 827,
+              "answers": [
+                {
+                  "answer_id": 849,
+                  "document_id": 641,
+                  "question_id": 827,
+                  "text": "godsprospektet og byprospektet",
+                  "answer_start": 611,
+                  "answer_end": 641,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor ble det realistiske vedutemaleriet først utviklet?",
+              "id": 831,
+              "answers": [
+                {
+                  "answer_id": 853,
+                  "document_id": 641,
+                  "question_id": 831,
+                  "text": "i Italia",
+                  "answer_start": 951,
+                  "answer_end": 959,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Prospekt (topografisk bilde)\nEt prospekt (av latin: prospectus utsikt, utsyn) var et topografisk landskaps-, arkitektur- eller bybilde som hadde som funksjon å være en saklig og nøktern gjengivelse av ett spesielt landskap, mest mulig perspektivisk korrekt gjengitt. Prospektet kunne være tegnet, malt eller utført i en grafisk teknikk. Som sjanger oppsto prospektet på slutten av 1400-tallet. Begrepet kommer fra tidligere teatermaleri, der bakgrunnen som avsluttet scenerommet ofte var utformet som et utsyn over en by eller et landskap. Allerede fra tidlig 1500-tall finnes to hovedtyper innenfor sjangeren: godsprospektet og byprospektet. I tillegg ble det laget mange landskapsprospekter, ikke minst på reiser. Noen av de første kjente «rene landskapsprospekter», det vil si uten bebyggelse eller andre tilleggselementer, ble laget på slutten av 1500-tallet.\nProspektet har mange likhetstrekk med det realistiske vedutemaleriet, som ble utviklet i Italia på 1600-tallet som en motvekt til tidligere tiders malerier av idealiserte fantasilandskap.\nDa det på 1600- og 1700-tallet ble utviklet et sjangerhierarki innenfor malerkunsten, var prospektmaleriet plassert som en av de laveste underkategoriene under landskapsmaleri, fordi det ble vurdert som en mekanisk etterligning av virkeligheten, ikke et landskapsmaleri der kunstneren hadde valgt ut et spesielt pittoresk motiv, eller dramatisert og idealisert motivet.\nBåde under renessansen og opplysningstiden var topografiske beskrivelser i tekst og bilder populært, både for å dokumentere sitt eget land, for å vise hva man hadde sett og lært på reiser og ved forskning – og for å bringe kunnskap ut til folket.\nPå 1700-tallet ble prospekter populære som utsmykning av interiører på gods og herregårder, både som bilder av selve godset og som utsmykning direkte på store veggfelter. Prospekter ble også brukt som dekorasjon på souvenirer, som porselensfat og -kopper.\nUtover 1800-tallet ble fotografiske reproduksjonsteknikker utviklet, og interessen for tegnede, malte og grafiske topografiske bilder avtok kraftig.\n\n\n",
+          "document_id": 641
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva var hensikten med Marshallplanen?",
+              "id": 878,
+              "answers": [
+                {
+                  "answer_id": 883,
+                  "document_id": 645,
+                  "question_id": 878,
+                  "text": "sikre gjenreisningen av Vest-Europa",
+                  "answer_start": 1331,
+                  "answer_end": 1366,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når gikk Truman av som president i USA?",
+              "id": 879,
+              "answers": [
+                {
+                  "answer_id": 878,
+                  "document_id": 645,
+                  "question_id": 879,
+                  "text": "den 20. januar 1953",
+                  "answer_start": 337,
+                  "answer_end": 356,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ga Truman ordren om å bruke atomvåpen mot Japan?",
+              "id": 881,
+              "answers": [
+                {
+                  "answer_id": 881,
+                  "document_id": 645,
+                  "question_id": 881,
+                  "text": "I sluttfasen av den andre verdenskrig",
+                  "answer_start": 1065,
+                  "answer_end": 1102,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilken stat ligger Kansas City i?",
+              "id": 883,
+              "answers": [
+                {
+                  "answer_id": 882,
+                  "document_id": 645,
+                  "question_id": 883,
+                  "text": "Missouri",
+                  "answer_start": 108,
+                  "answer_end": 116,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem avslørte sløsing og korrpusjon blant leverandørene til det amerikanske militæret under andre verdenskrig?",
+              "id": 884,
+              "answers": [
+                {
+                  "answer_id": 885,
+                  "document_id": 645,
+                  "question_id": 884,
+                  "text": "Truman-komiteen i Senatet",
+                  "answer_start": 790,
+                  "answer_end": 815,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor jobbet Harry Truman under første verdenskrig?",
+              "id": 886,
+              "answers": [
+                {
+                  "answer_id": 879,
+                  "document_id": 645,
+                  "question_id": 886,
+                  "text": "i Nasjonalgarden",
+                  "answer_start": 430,
+                  "answer_end": 446,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor var Trumans periode som president et vendepunkt i USAs utenrikspolitikk?",
+              "id": 880,
+              "answers": [
+                {
+                  "answer_id": 880,
+                  "document_id": 645,
+                  "question_id": 880,
+                  "text": "idet USA førte en internasjonalistisk politikk i forståelse med sine europeiske allierte",
+                  "answer_start": 975,
+                  "answer_end": 1063,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var artillerioffiser i Nasjonalgarden under første verdenskrig?",
+              "id": 882,
+              "answers": [
+                {
+                  "answer_id": 884,
+                  "document_id": 645,
+                  "question_id": 882,
+                  "text": "Harry S. Truman",
+                  "answer_start": 16,
+                  "answer_end": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan tjente Truman penger før han ble politiker?",
+              "id": 885,
+              "answers": [
+                {
+                  "answer_id": 886,
+                  "document_id": 645,
+                  "question_id": 885,
+                  "text": "som bonde og med en egen klesforretning i Midtvesten",
+                  "answer_start": 619,
+                  "answer_end": 671,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Harry S. Truman\nHarry S. Truman (født 8. mai 1884 i Lamar i Missouri, død 26. desember 1972 i Kansas City i Missouri) var en amerikansk demokratisk politiker. Han var USAs 34. visepresident fra 20. januar 1945. Truman tiltrådte som USAs 33. president ved Franklin D. Roosevelts død den 12. april samme år, og satt som president frem til den 20. januar 1953.\nUnder den første verdenskrig tjenestegjorde Truman som artillerioffiser i Nasjonalgarden, som deltok i kampene på vestfronten. Truman er den eneste amerikanske presidenten etter 1897 som ikke har hatt høyere utdannelse. Før tiden som politiker livnærte han seg som bonde og med en egen klesforretning i Midtvesten. I 1934 ble han valgt til senator. Under den andre verdenskrig fikk han nasjonal berømmelse som leder for den såkalte Truman-komiteen i Senatet, som avslørte sløsing, svindel og korrupsjon blant leverandørene til militæret.\nTrumans periode som president ble et vendepunkt i amerikansk utenrikspolitikk, idet USA førte en internasjonalistisk politikk i forståelse med sine europeiske allierte. I sluttfasen av den andre verdenskrig, der aksemaktene ble beseiret, beordret han bruken av kjernefysiske våpen mot Japan. Hensikten var å forkorte krigen, men beslutningen er fortsatt kontroversiell. Etter krigen ble FN og NATO etablert, mens Marshallplanen skulle sikre gjenreisningen av Vest-Europa. I begynnelsen av den kalde krigen definerte han Truman-doktrinen, som lå til grunn for en oppdemmingspolitikk overfor Sovjetunionen og Kina. Truman sørget for å etablere en luftbro under Berlinblokaden. Han fikk FNs støtte til å intervenere i Koreakrigen.\nInnenrikspolitisk møtte Truman ofte motstand fra det partioverskridende, konservative flertallet i Kongressen. Likevel lyktes han i å omstille økonomien til fredstiden, og redusere omfanget av varemangel og streiker. Truman beordret raseadskillelsen i militæret avskaffet. I 1948 var Det demokratiske parti svært splittet, men Truman vant en overraskende valgseier mot Thomas E. Dewey fra Det republikanske parti. Truman gikk til valg på Fair Deal-programmet, men fikk bare gjennomslag for ett forslag fra dette. Korrupsjonsanklager mot enkelte medlemmer av regjeringen og staben i Det hvite hus stod sentralt i presidentvalget i 1952, og hjalp republikaneren Dwight D. Eisenhower til å vinne over demokraten Adlai Stevenson. Trumans popularitet gikk fra å være svært høy, til å bli liten ved avgangen i 1953. I ettertid vurderer historikerne Trumans innsats som president relativt høyt.\n\n\n",
+          "document_id": 645
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvor mange mennesker bor i Sør-Korea?",
+              "id": 864,
+              "answers": [
+                {
+                  "answer_id": 902,
+                  "document_id": 648,
+                  "question_id": 864,
+                  "text": "vel 50 millioner",
+                  "answer_start": 512,
+                  "answer_end": 528,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilket land ble Sør-Korea okkupert av frem til 1945?",
+              "id": 866,
+              "answers": [
+                {
+                  "answer_id": 905,
+                  "document_id": 648,
+                  "question_id": 866,
+                  "text": "Japan",
+                  "answer_start": 1022,
+                  "answer_end": 1027,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilket begrep brukes av flere utviklingsland om Sør-Koreas økonomiske utvikling?",
+              "id": 868,
+              "answers": [
+                {
+                  "answer_id": 904,
+                  "document_id": 648,
+                  "question_id": 868,
+                  "text": "Mirakelet ved Hanelva",
+                  "answer_start": 2142,
+                  "answer_end": 2163,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når var Koreakrigen?",
+              "id": 869,
+              "answers": [
+                {
+                  "answer_id": 907,
+                  "document_id": 648,
+                  "question_id": 869,
+                  "text": "1950–1953",
+                  "answer_start": 1221,
+                  "answer_end": 1230,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva heter landet som ligger på den sørlige halvdelen av Koreahalvøya?",
+              "id": 871,
+              "answers": [
+                {
+                  "answer_id": 909,
+                  "document_id": 648,
+                  "question_id": 871,
+                  "text": "Sør-Korea",
+                  "answer_start": 10,
+                  "answer_end": 19,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva heter hovedstaden i Sør-Korea?",
+              "id": 865,
+              "answers": [
+                {
+                  "answer_id": 906,
+                  "document_id": 648,
+                  "question_id": 865,
+                  "text": "Seoul",
+                  "answer_start": 542,
+                  "answer_end": 547,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem grunnla Korea?",
+              "id": 867,
+              "answers": [
+                {
+                  "answer_id": 903,
+                  "document_id": 648,
+                  "question_id": 867,
+                  "text": "Dangun Wanggeom",
+                  "answer_start": 754,
+                  "answer_end": 769,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er Goryeo?",
+              "id": 870,
+              "answers": [
+                {
+                  "answer_id": 908,
+                  "document_id": 648,
+                  "question_id": 870,
+                  "text": "et tidligere koreansk kongedømme",
+                  "answer_start": 665,
+                  "answer_end": 697,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Sør-Korea\nSør-Korea (offisielt Republikken Korea (ROK), hangul: , hanja: , revidert romanisering: Daehan Minguk (norsk: «Det store Hanfolkets nasjon»), ) er et land som ligger på den sørlige delen av Koreahalvøya i Øst-Asia. Det grenser til Nord-Korea i nord og mot Kina og Japan i øst og vest over havområdene Gulehavet og Koreastredet.\nLandet har et temperert klima med fire distinkte årstider, og er fra naturens side dominert av fjellformasjoner, særlig i øst. Arealet er 100 210 km², og befolkningen teller vel 50 millioner. Hovedstaden Seoul huser femteparten av landets innbyggere og sammen med byens forsteder halvparten.\nNavnet Korea er avledet av Goryeo, et tidligere koreansk kongedømme. Den koreanske nasjonen er ifølge legenden grunnlagt av Dangun Wanggeom i 2333 f.Kr. Arkeologiske utgravninger viser befolkede områder på halvøya i tidlig steinalder. Den første koreanske enheten kom i år 688 ved kongedømmet Silla, som ble avløst av kongedømmene Goryeo og Joseon. Fra 1910 til 1945 ble landet kolonisert av Japan. Etter andre verdenskrig ble Korea delt i to okkupasjonssoner av USA og Sovjetunionen, som igjen la grunnlaget for dagens to koreanske stater. Delingen la i sin tur grunnlaget for Koreakrigen (1950–1953), som har satt dype spor i det koreanske samfunnet.\nDet nye Sør-Korea omfavnet offisielt det vestlige demokratiet, men i realiteten var det et militærdiktatur styrt ved hjelp av unntakstilstand og krigslover. Først i 1987 ble frie og rettferdige valg til presidentembedet gjennomført, i stor grad takket være den folkelige demokratibevegelsen som demonstrerte mot landets autoritære makthavere og presset fram dagens sjette republikk. Den økonomiske politikken ble styrt i retning av etablering av store konglomerat (chaebol) som fikk finansiering og frie tøyler, i bytte mot arbeidsplasser og økonomisk vekst. Landsbygda ble neglisjert, og eksportindustrien prioritert.\nSør-Korea har hatt en av verdens raskest voksende økonomier siden 1960, og er i dag Asias tredje største økonomi og verdens 12. største, og regnes som en av de fire tigerøkonomiene. Mange utviklingsland refererer til denne utviklingen som «Mirakelet ved Hanelva», og bruker ofte landet som et forbilde. Sør-Korea er i dag regnet som et høyinntektsland, og er medlem av G20.\n\n\n",
+          "document_id": 648
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvorfor ble Henrik II kal Henrik Curtmantle?",
+              "id": 915,
+              "answers": [
+                {
+                  "answer_id": 929,
+                  "document_id": 652,
+                  "question_id": 915,
+                  "text": "fordi han benyttet en kåpe som var kortere enn hans forgjengere",
+                  "answer_start": 602,
+                  "answer_end": 665,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan gjorde Henrik II kongen mindre avhengig av adelen?",
+              "id": 917,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Hva reformerte Henrik II?",
+              "id": 919,
+              "answers": [
+                {
+                  "answer_id": 934,
+                  "document_id": 652,
+                  "question_id": 919,
+                  "text": "det normanniske styret",
+                  "answer_start": 982,
+                  "answer_end": 1004,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var Henrik IIs overherre?",
+              "id": 922,
+              "answers": [
+                {
+                  "answer_id": 937,
+                  "document_id": 652,
+                  "question_id": 922,
+                  "text": "den franske kongen",
+                  "answer_start": 2170,
+                  "answer_end": 2188,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilket hus tilhørte Henrik II?",
+              "id": 918,
+              "answers": [
+                {
+                  "answer_id": 930,
+                  "document_id": 652,
+                  "question_id": 918,
+                  "text": "Huset Plantagenet",
+                  "answer_start": 337,
+                  "answer_end": 354,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når overtok Henrik II tronen i England?",
+              "id": 923,
+              "answers": [
+                {
+                  "answer_id": 933,
+                  "document_id": 652,
+                  "question_id": 923,
+                  "text": "i kjølvannet av kaoset som Stefans regime hadde ført til",
+                  "answer_start": 790,
+                  "answer_end": 846,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når var Henrik II konge i England?",
+              "id": 916,
+              "answers": [
+                {
+                  "answer_id": 931,
+                  "document_id": 652,
+                  "question_id": 916,
+                  "text": "1154–1189",
+                  "answer_start": 109,
+                  "answer_end": 118,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor sikret Henrik II engelsk tilstedeværelse og overherredømme?",
+              "id": 921,
+              "answers": [
+                {
+                  "answer_id": 936,
+                  "document_id": 652,
+                  "question_id": 921,
+                  "text": "Irland",
+                  "answer_start": 1832,
+                  "answer_end": 1838,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var oldefaren til Henrik II?",
+              "id": 920,
+              "answers": [
+                {
+                  "answer_id": 932,
+                  "document_id": 652,
+                  "question_id": 920,
+                  "text": "den normanniske Vilhelm Erobreren",
+                  "answer_start": 395,
+                  "answer_end": 428,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Henrik II av England\nHenrik II av England (født 5. mars 1133, død 6. juli 1189) styrte som konge av England (1154–1189), greve av Anjou, hertug av Normandie, hertug av Aquitaine, hertug av Gascogne, greve av Nantes, lord av Irland og kontrollerte til ulike tider deler av Wales, Skottland og vestlige Frankrike. Henrik var den første av Huset Plantagenet til å styre England, og var oldebarn av den normanniske Vilhelm Erobreren. Henrik var den første som benyttet tittelen «konge av England» – i motsetning til «konge av de engelske». Han ble i sin samtid også kalt for Henrik Curtmantle, «kortkåpe», fordi han benyttet en kåpe som var kortere enn hans forgjengere.\nHenrik II var den første av Angevin-kongene i England, og en av de mest effektive av Englands monarker. Han overtok tronen i kjølvannet av kaoset som Stefans regime hadde ført til. Henrik overlevde kriger, opprør, strid til han kunne herske et av de mektigste europeiske kongedømmer i middelalderen. Han reformerte det normanniske styret og skapte en regjering og en administrasjon som var dyktig og selvgående, også i de tider da kongen var utenlands. Adelen hadde under Stefan manipulert føydal lov for å underminere kongelig autoritet, og Henrik II satte i gang mange reformer som svekket de tradisjonelle føydale båndene og styrket kongens posisjon. Festninger som var blitt reist under borgerkrigen ble revet. Økt beskatning erstattet stor grad militærtjeneste som vasallenes viktigste plikt, noe som gjorde kongen mindre avhengig av adelen, og som uansett var mindre interessert i å utkjempe en krig utenfor England.\nHenrik utvidet sitt område på De britiske øyer på to måter. Først tok han Cumbria og Northumbria fra Malcolm IV av Skottland, og fastsatte grensen i nord. Hans kampanjer i Wales var mindre vellykte og innebar ikke erobring, men han invaderte Irland og sikret engelsk tilstedeværelse og overherredømme på øya. De besittelser som han hersket over på kontinentet, og som han satte sine sønner til å herske over som sine vasaller innbefattet de følgende land: Bretagne, Maine, Poitou, Touraine, Gascogne, Anjou, Aquitaine, og Normandie. Henrik II var teknisk sett en føydal vasall av den franske kongen, men i virkeligheten eide han større områder, hadde større inntekter og var langt mektigere enn sin franske overherre.\n\n\n",
+          "document_id": 652
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva er en bireme?",
+              "id": 947,
+              "answers": [
+                {
+                  "answer_id": 962,
+                  "document_id": 656,
+                  "question_id": 947,
+                  "text": "et oldtidsfartøy med to dekk med årer",
+                  "answer_start": 433,
+                  "answer_end": 470,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva heter sneglen som gir en kostbar purpurfarge?",
+              "id": 949,
+              "answers": [
+                {
+                  "answer_id": 961,
+                  "document_id": 656,
+                  "question_id": 949,
+                  "text": "murex",
+                  "answer_start": 660,
+                  "answer_end": 665,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når spredte handelskulturen fønikerne seg i Middelhavet?",
+              "id": 952,
+              "answers": [
+                {
+                  "answer_id": 967,
+                  "document_id": 656,
+                  "question_id": 952,
+                  "text": "fra 1550 f.Kr. og fram til rundt 300 f.Kr.",
+                  "answer_start": 288,
+                  "answer_end": 330,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor var fønikerne kjent som \"handlere i purpur\"?",
+              "id": 948,
+              "answers": [
+                {
+                  "answer_id": 963,
+                  "document_id": 656,
+                  "question_id": 948,
+                  "text": "i antikkens Hellas og Roma",
+                  "answer_start": 512,
+                  "answer_end": 538,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva kalte fønikerne seg selv?",
+              "id": 953,
+              "answers": [
+                {
+                  "answer_id": 966,
+                  "document_id": 656,
+                  "question_id": 953,
+                  "text": "kanaanere",
+                  "answer_start": 1706,
+                  "answer_end": 1715,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Ved hvilket hav lå mange av de fønikiske byene?",
+              "id": 946,
+              "answers": [
+                {
+                  "answer_id": 959,
+                  "document_id": 656,
+                  "question_id": 946,
+                  "text": "Middelhavet",
+                  "answer_start": 202,
+                  "answer_end": 213,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var Heketaios av Miletos?",
+              "id": 951,
+              "answers": [
+                {
+                  "answer_id": 965,
+                  "document_id": 656,
+                  "question_id": 951,
+                  "text": "en gresk historieskriver",
+                  "answer_start": 1426,
+                  "answer_end": 1450,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilket område dekket sivilisasjonen Fønikia?",
+              "id": 945,
+              "answers": [
+                {
+                  "answer_id": 960,
+                  "document_id": 656,
+                  "question_id": 945,
+                  "text": "det meste av den vestlige kysten av Den fruktbare halvmåne",
+                  "answer_start": 96,
+                  "answer_end": 154,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor er purpur en farge som er forbundet med kongelige klær?",
+              "id": 950,
+              "answers": [
+                {
+                  "answer_id": 964,
+                  "document_id": 656,
+                  "question_id": 950,
+                  "text": "Ettersom denne fargen var såpass kostbar",
+                  "answer_start": 667,
+                  "answer_end": 707,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Fønikia\nFønikia, fra gresk Φοινίκη, Phoiníkē var en sivilisasjon i Kanaan i oldtiden som dekket det meste av den vestlige kysten av Den fruktbare halvmåne. Flere fønikiske byer ble bygget ved kysten av Middelhavet. De var en driftig maritim handelskultur som spredte seg over Middelhavet fra 1550 f.Kr. og fram til rundt 300 f.Kr. Fønikerne benyttet seg av galeien, en seilskute med årer, og er kreditert for oppfinnelsen av bireme, et oldtidsfartøy med to dekk med årer. Fønikerne, et semittisk folk, var kjent i antikkens Hellas og Roma som «handlere i purpur», en referanse til deres monopol på en kostbar purpurfarge som ble utvunnet  fra en snegl som het murex. Ettersom denne fargen var såpass kostbar ble purpur siden en farge som ble assosiert med kongelige klær. Som handelsfolk hadde fønikerne behov for å holde fortegnelser over lagerholdninger og utgifter, og utviklet et alfabet (eller abjad), og fra dette skrivesystemet har siden nesten alle moderne vestlige alfabeter blitt avledet.\nEn fønikisk mynt\nI Amarnabrevene fra 1300-tallet f.Kr. nevnes et folk i regionen som kaller seg for Kenaani eller Kinaani (det vil si kanaanere), skjønt disse brevene er fra før angrepene fra havfolkene med et århundre. Egyptiske skipsekspedisjoner hadde allerede gjort bruk av byen Byblos for å frakte tilbake «sedertre fra Libanon» så tidlig som 3000-tallet f.Kr. Mye senere, på 500-tallet f.Kr., skrev Hekataios av Miletos, en gresk historieskriver, at Fønikia ble tidligere kalt for χνα, et navn som Herennios fra Byblos senere adopterte til hans mytologi som hans eponym (benevnelse dannet av personnavn) for fønikerne: «Khna som senere ble kalt for Foinix». Folket som levde i Fønikia, kalte seg selv kanaanere, mens navnet Fønikia er dannet av det greske Φοινίκη, føniki, (  det røde folk) etter ordet foinos som betyr «rød», ettersom de kostbare fargestoffene purpur og karmosinrød ble produsert der. Det greske ordet for purpur er phoinix og gav opphav både til navnet på fugl Føniks og landet Fønikia. Fønikia var hva grekerne benyttet for å referere til regionen med de betydelige kanaanittiske havnebyene og trenger således ikke å tilsvare til en kulturell identitet som ble anerkjent av fønikerne selv. Det er uklart i hvilken grad fønikerne så på seg selv som en enhetlig etnisitet. Deres sivilisasjon var organisert i bystater, ganske like de greske i antikkens Hellas. Imidlertid i henhold til arkeologi, språk, livsstil og religion, er det lite som adskiller fønikere fra andre kulturer i Kanaan. Som kanaanitter var de unike i sine framragende sjøfartskunnskaper.\n\n\n",
+          "document_id": 656
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvem organiserte utenrikshandelen med tørrfisk på 1500-tallet?",
+              "id": 973,
+              "answers": [
+                {
+                  "answer_id": 987,
+                  "document_id": 660,
+                  "question_id": 973,
+                  "text": "den nordtyske handelsorganisasjonen Hansaforbundet",
+                  "answer_start": 1869,
+                  "answer_end": 1919,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor hadde Hansaforbundet sine kontorer i Norge?",
+              "id": 978,
+              "answers": [
+                {
+                  "answer_id": 993,
+                  "document_id": 660,
+                  "question_id": 978,
+                  "text": "i Bergen",
+                  "answer_start": 1931,
+                  "answer_end": 1939,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er lofotfisket?",
+              "id": 976,
+              "answers": [
+                {
+                  "answer_id": 990,
+                  "document_id": 660,
+                  "question_id": 976,
+                  "text": "et kommersielt sesongfiskeri",
+                  "answer_start": 139,
+                  "answer_end": 167,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva ble påkrevd da kristendommen kom til Norge?",
+              "id": 981,
+              "answers": [
+                {
+                  "answer_id": 995,
+                  "document_id": 660,
+                  "question_id": 981,
+                  "text": "Kjøtt kunne ikke spises i fasten",
+                  "answer_start": 1219,
+                  "answer_end": 1251,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når kom den første nedgangen i Lofotfisket?",
+              "id": 975,
+              "answers": [
+                {
+                  "answer_id": 989,
+                  "document_id": 660,
+                  "question_id": 975,
+                  "text": "Utover på 1600-tallet",
+                  "answer_start": 1941,
+                  "answer_end": 1962,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva slags fartøy blir lofotfiske som oftest drevet med?",
+              "id": 980,
+              "answers": [
+                {
+                  "answer_id": 994,
+                  "document_id": 660,
+                  "question_id": 980,
+                  "text": "mindre båter",
+                  "answer_start": 2757,
+                  "answer_end": 2769,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når begynner lofotfiskets historie?",
+              "id": 972,
+              "answers": [
+                {
+                  "answer_id": 986,
+                  "document_id": 660,
+                  "question_id": 972,
+                  "text": "rundt år 1000",
+                  "answer_start": 109,
+                  "answer_end": 122,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan kom strenge krav til faste til Norge?",
+              "id": 977,
+              "answers": [
+                {
+                  "answer_id": 991,
+                  "document_id": 660,
+                  "question_id": 977,
+                  "text": "Med innføringen av kristendommen",
+                  "answer_start": 1153,
+                  "answer_end": 1185,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor er fiskerne i lofotfisket utsatt for ulykker?",
+              "id": 974,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Hvilke fiskeredskapet ble tatt i bruk for lofotfisket på 1700-tallet?",
+              "id": 979,
+              "answers": [
+                {
+                  "answer_id": 992,
+                  "document_id": 660,
+                  "question_id": 979,
+                  "text": "nye fiskeredskaper som line og garn",
+                  "answer_start": 2338,
+                  "answer_end": 2373,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Lofotfiskets historie\nFiskebåter ror ut på fiskefeltene. «Fiskere i Lofoten».\nLofotfiskets historie begynner rundt år 1000. Lofotfisket er et kommersielt sesongfiskeri som opp til moderne tid har spilt en viktig rolle for norsk økonomi, og har vært Norges største eksportnæring. Først ble fisken videreforedlet som tørrfisk. Senere, på begynnelsen av 1700-tallet, ble tørking og salting til klippfisk mer vanlig.\nLofotfisket foregår i vintermånedene januar til april. På denne årstiden er været svært skiftende, og fiskerne har derfor alltid vært utsatt for forlis og ulykker. Etter andre verdenskrig ble filetfabrikker med eksportprodukter som ferskfisk og frossenfisk etablert, men også i nyere tid foredles store mengder av fangsten til tørrfisk og klippfisk.\nEn kjenner ikke til nøyaktig når og hvordan eksporten av tørrfisk fra Lofoten til England og resten av Nord-Europa startet. En regner med at denne eksporten var kommet godt i gang på 1000-tallet. En viktig årsak til at det på denne tiden oppstod et marked for tørrfisk mener en var oppblomstringen av flere store byer, med en befolkning med spesialiserte yrker som ikke selv drev jordbruk. Med innføringen av kristendommen kom også strenge krav til faste. Kjøtt kunne ikke spises i fasten, men fisk var tillatt. Historikere mener at tørrfisk var et kostbart produkt som bare de mest velhavende hadde råd til. I bytte mot tørrfisk ble det importert korn og andre produkter som var vanskelig å fremskaffe i jevnt stort kvanta i Norge. I tillegg ble mange varer som ikke fantes i landet, også innført. Kornimporten ble viktig for muligheten for utbredelse av norsk bosetning i ytre kyststrøk på 1500-tallet. Helt frem til denne tiden var allmuen i Nord-Norge fiskerbønder, men fra nå av ble en del av befolkningen helårsfiskere som var bofaste i fiskevær. De som organiserte utenrikshandelen med tørrfisk var den nordtyske handelsorganisasjonen Hansaforbundet med kontor i Bergen.\nUtover på 1600-tallet var det sterk nedgang i lofotfisket. Blant annet virket klimaendringer, hungersnød og krig i Europa og endog verdensomspennende økonomiske nedgangstider inn. Det er mulig at klimaendringer både påvirket hvor fisken valgte å gyte, samt at fiskerne ble forhindret i å komme ut på havet på grunn av uvær. Utover på 1700-tallet kom det nye oppgangstider. Da ble det også innført nye fiskeredskaper som line og garn. Dette var mer effektive redskaper enn håndsnøre (juksa). Stadige forbedringer utover på 1800-tallet forbedret fangstene, men også flere fiskere deltok. Dermed ble reguleringer og kontroller fra myndighetenes side nødvendige for å unngå konflikter. Til tross for forsøk på å innføre mer industrielle fiskemetoder og større båter, har lofotfiske hele tiden stort sett vært drevet med mindre båter. Det vil utover fra 1900-tallet og opp til nyere tid si sjarker og skøyter med lite mannskap.\n\n\n",
+          "document_id": 660
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva heter de tre først utgitte filmene i Star Wars-serien?",
+              "id": 903,
+              "answers": [
+                {
+                  "answer_id": 917,
+                  "document_id": 650,
+                  "question_id": 903,
+                  "text": "Et nytt håp, Imperiet slår tilbake og Jediridderen vender tilbake",
+                  "answer_start": 395,
+                  "answer_end": 460,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når kom den originale Star Wars-trilogien på kino?",
+              "id": 905,
+              "answers": [
+                {
+                  "answer_id": 920,
+                  "document_id": 650,
+                  "question_id": 905,
+                  "text": "mellom 1977 og 1983",
+                  "answer_start": 633,
+                  "answer_end": 652,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan ble Star Wars-filmene endret med \"Special Edition\"-utgaven fra 1997?",
+              "id": 907,
+              "answers": [
+                {
+                  "answer_id": 919,
+                  "document_id": 650,
+                  "question_id": 907,
+                  "text": "blant annet ved å legge til nye scener og å bruke datagrafikk i gamle scener",
+                  "answer_start": 868,
+                  "answer_end": 944,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan lærte Petr «Harmy» Harmáček seg filmredigering?",
+              "id": 904,
+              "answers": [
+                {
+                  "answer_id": 918,
+                  "document_id": 650,
+                  "question_id": 904,
+                  "text": "ved hjelp av programmer som AviSynth og Adobe After Effects",
+                  "answer_start": 1488,
+                  "answer_end": 1547,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor ble Harmy's Despecialized Edition gjort tilgjengelig i 2011?",
+              "id": 909,
+              "answers": [
+                {
+                  "answer_id": 923,
+                  "document_id": 650,
+                  "question_id": 909,
+                  "text": "på internett",
+                  "answer_start": 1974,
+                  "answer_end": 1986,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble den første utgaven av Harmy's Despecialized Edition utgitt?",
+              "id": 906,
+              "answers": [
+                {
+                  "answer_id": 921,
+                  "document_id": 650,
+                  "question_id": 906,
+                  "text": "I 2011",
+                  "answer_start": 1852,
+                  "answer_end": 1858,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem har satt sammen Star Wars: Despecialized?",
+              "id": 908,
+              "answers": [
+                {
+                  "answer_id": 922,
+                  "document_id": 650,
+                  "question_id": 908,
+                  "text": "en gruppe Star Wars-fans ledet av Petr «Harmy» Harmáček",
+                  "answer_start": 488,
+                  "answer_end": 543,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Harmy's Despecialized Edition\nStar Wars-logoen.\nHarmy's Despecialized Edition, også kjent som Star Wars: Despecialized, er en serie redigerte Star Wars-filmer som har blitt endret av fans for å se ut som Star Wars-filmene gjorde da de opprinnelig kom ut, uten forandringene som har blitt gjort i ettertid, og i høyere kvalitet. Serien består av de tre første utgitte filmene i Star Wars-serien: Et nytt håp, Imperiet slår tilbake og Jediridderen vender tilbake. Serien ble satt sammen av en gruppe Star Wars-fans ledet av Petr «Harmy» Harmáček.\nDen originale Star Wars-trilogien ble gitt ut på kino av 20th Century Fox for Lucasfilm mellom 1977 og 1983. Etter hvert som filmene ble gitt ut på hjemmemedieformater som VHS og DVD, kom det ut versjoner som forandret på originalfilmene. De første var «Special Edition»-utgavene fra 1997, som forandret filmene betydelig, blant annet ved å legge til nye scener og å bruke datagrafikk i gamle scener. Disse nyutgavene fikk blandede kritikker i sin tid. Originalfilmene er ikke lenger mulig å få tak i fra offisielle kilder, så de eneste Star Wars-filmene som fortsatt selges, er utgavene som har blitt bearbeidet i ettertid.\nHarmáček mente at å redigere filmene i etterkant var en form for kulturvandalisme. I 2010 begynte han å produsere sin egen serie som tilbakeførte Star Wars-filmene for å få dem til se ut slik originalene ville ha gjort i full HD. Siden han ikke hadde noen tidligere erfaring med filmredigering, lærte han det seg selv ved hjelp av programmer som AviSynth og Adobe After Effects. Han baserte filmene på LaserDisc-utgavene fra 1993, siden disse ikke hadde blitt forandret på. Mesteparten av kildematerialet kom først fra DVD-utgavene fra 2004 og senere fra Blu-ray-utgavene fra 2011. Harmáček og en gruppe på åtte andre arbeidet med å rekonstruere originalene over flere tusen timer. I 2011, ett år etter prosjektet hadde startet, ble den første utgaven av Harmy's Despecialized Edition gjort tilgjengelig på internett. Oppdaterte versjoner har kommet i ettertid.\n\n\n",
+          "document_id": 650
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Når var demokratiopprøret Jana Andolan i Nepal?",
+              "id": 934,
+              "answers": [
+                {
+                  "answer_id": 948,
+                  "document_id": 654,
+                  "question_id": 934,
+                  "text": "1990",
+                  "answer_start": 975,
+                  "answer_end": 979,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva het det dominerende partiet i valgfronten Samyukta Janamorcha Nepal i 1991?",
+              "id": 937,
+              "answers": [
+                {
+                  "answer_id": 949,
+                  "document_id": 654,
+                  "question_id": 937,
+                  "text": "NKP (Ekda Kendra)",
+                  "answer_start": 1224,
+                  "answer_end": 1241,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan oppstod det nepalesiske partiet Nepal Kamyunishta Parti (Marksbadi Leninbadi Maobadi) (NKP (MLM))?",
+              "id": 933,
+              "answers": [
+                {
+                  "answer_id": 947,
+                  "document_id": 654,
+                  "question_id": 933,
+                  "text": "ved en splittelse i NKP (Chautho Mahadhiveshan)",
+                  "answer_start": 317,
+                  "answer_end": 364,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Nepal Kamyunishta Parti (Marksbadi Leninbadi Maobadi)\nNepal Kamyunishta Parti (Marksbadi Leninbadi Maobadi) (NKP (MLM)) – engelsk Communist Party of Nepal (Marxist-Leninist-Maoist), på norsk Nepals Kommunistiske Parti (marxist-leninist-maoistisk), var et lite kommunistparti i Nepal fra 1981 til 2005.\nPartiet oppsto ved en splittelse i NKP (Chautho Mahadhiveshan) i 1981.\nDet ble opprinnelig kalt NKP (Krishna Das) etter Krishna Das Shresta, som var partileder i hele partiets levetid. Senere brukte det navnet NKP (MLM), og ble også kalt NKP (Malema).\nEn gruppe som splittet seg ut av NKP(MLM) på 1980-tallet, dannet partiet Nepal Samyabadi Party (Marksbadi-Leninbadi-Maobadi) – NSP (MLM). (Navnet kan virke forvirrende, fordi engelsk og norsk oversettelse av partinavnet er identisk med navnet til morpartiet. Ordet som brukes for kommunisme i partinavnet – samyabadi – er mer typisk for partipolitisk navneskikk i India enn i Nepal.)\nUnder demokratiopprøret Jana Andolan 1990 var partiet med i den revolusjonære fronten Samyukta Rashtriya Janaandolan, der de dominerende partnerne var NKP (Mashal) og NKP (Masal).\nVed valget i 1991 deltok partiet i valgfronten Samyukta Janamorcha Nepal, der det dominerende partiet var NKP (Ekda Kendra). NKP (MLM) gikk ut av valgfronten ikke lenge etter valget.\nAt det alt fantes et parti som kalte seg NKP (Marksbadi Leninbadi Maobadi) var trolig en grunn til at Prachandas og Baburam Bhattarais flertallsfløy av NKP (Ekda Kendra) i mars 1995 valgte å omdøpe partiet sitt til bare NKP (Maobadi). (Å bruke (maoistisk) i et partinavn var den gangen nokså uvanlig, både i Nepal og ellers i verden, og å bruke bare maoistisk uten å sette (marxist-leninistisk) foran hadde få eller ingen partier gjort før. Den ekstreme mengden kommunistpartier i Nepal som hadde nokså like navn, og spesielt eksistensen av NKP (MLM), fikk kanskje Prachandas parti til å velge den uvanlige navneformen med bare (maoistisk) i parentes.) I så fall kan dette være det kraftigste sporet NKP (MLM) har satt etter seg i nepalsk politikk.\n\n\n",
+          "document_id": 654
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva heter byen Olwiopol i dag?",
+              "id": 959,
+              "answers": [
+                {
+                  "answer_id": 973,
+                  "document_id": 658,
+                  "question_id": 959,
+                  "text": "Pervomajsk",
+                  "answer_start": 83,
+                  "answer_end": 93,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor forlot Edgar von Wahl esperanto i 1894?",
+              "id": 962,
+              "answers": [
+                {
+                  "answer_id": 976,
+                  "document_id": 658,
+                  "question_id": 962,
+                  "text": "esperantistene avslo å gå med på flere språkreformer",
+                  "answer_start": 619,
+                  "answer_end": 671,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble språket occidental offentliggjort?",
+              "id": 964,
+              "answers": [
+                {
+                  "answer_id": 978,
+                  "document_id": 658,
+                  "question_id": 964,
+                  "text": "I 1922",
+                  "answer_start": 912,
+                  "answer_end": 918,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når hadde Esperanto en sterk stilling i Sovjetunionen?",
+              "id": 967,
+              "answers": [
+                {
+                  "answer_id": 982,
+                  "document_id": 658,
+                  "question_id": 967,
+                  "text": "før 1936",
+                  "answer_start": 1850,
+                  "answer_end": 1858,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "I hvilket år samarbeidet Edgar von Wahl med Waldemar Rosenberger?",
+              "id": 963,
+              "answers": [
+                {
+                  "answer_id": 977,
+                  "document_id": 658,
+                  "question_id": 963,
+                  "text": "1907",
+                  "answer_start": 798,
+                  "answer_end": 802,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor døde Edgar de Wahl?",
+              "id": 968,
+              "answers": [
+                {
+                  "answer_id": 981,
+                  "document_id": 658,
+                  "question_id": 968,
+                  "text": "i Estland",
+                  "answer_start": 134,
+                  "answer_end": 143,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er Edgar von Wahl mest berømt som?",
+              "id": 961,
+              "answers": [
+                {
+                  "answer_id": 975,
+                  "document_id": 658,
+                  "question_id": 961,
+                  "text": "interlingvist",
+                  "answer_start": 281,
+                  "answer_end": 294,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem propaganderte at Esperanto var et kommunist- og jødespråk?",
+              "id": 966,
+              "answers": [
+                {
+                  "answer_id": 980,
+                  "document_id": 658,
+                  "question_id": 966,
+                  "text": "nazistene",
+                  "answer_start": 1885,
+                  "answer_end": 1894,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "I hvilken by var Edgar von Wahl matematikk- og fysikklærer?",
+              "id": 960,
+              "answers": [
+                {
+                  "answer_id": 974,
+                  "document_id": 658,
+                  "question_id": 960,
+                  "text": "Reval",
+                  "answer_start": 224,
+                  "answer_end": 229,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva het språket occidental fra 1949?",
+              "id": 965,
+              "answers": [
+                {
+                  "answer_id": 979,
+                  "document_id": 658,
+                  "question_id": 965,
+                  "text": "interlingue",
+                  "answer_start": 1014,
+                  "answer_end": 1025,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Edgar von Wahl\nEdgar von Wahl, kalte seg også Edgar de Wahl, (født  i Olwiopol (nå Pervomajsk i Ukraina) i Russland, død 9. mars 1948 i Estland i Sovjetunionen) var en tysk-russisk sjøoffiser og matematikk- og fysikklærer i Reval (i dag Tallinn).\nEdgar von Wahl var mest kjent som interlingvist. Etter å ha vært volapükist ble han en av de første esperantistene. Han korresponderte med Zamenhof, og foreslo den eneste betydelige reformen som ble gjennomført i esperanto etter at språket var offentliggjort i  1887 (endring av endelsen -n til -m i tidadverbene blant de såkalte tabelvortoj (tabellordene)). Men etter at esperantistene avslo å gå med på flere språkreformer, forlot han esperanto i 1894.\nSeinere samarbeidet Edgar von Wahl med flere av de viktigste og mest kjente interlingvistene. I 1907 samarbeidet han med Waldemar Rosenberger om en reform av Idiom Neutral i nylatinsk og naturalistisk retning. I 1922 offentliggjorde han det kunstige språket occidental, som etter hans død i 1949 blei omdøpt til interlingue.\nVon Wahl utviklet seg til å bli en lededende talsmann for den naturalistiske skolen i kunstspråkbevegelsen. Han kritiserte den oppfatningen som lå bak tidlige internasjonale hjelpespråk som Volapük og Esperanto, om at språkene skulle være tilpasset folkeslag på alle kontinenter og lette å lære for fattigfolk uten utdannelse.\nVon Wahl mente at hjelpespråk først og fremst skulle være for den vestlige intellektuelle eliten og forsvare vestens kultur. Slike synspunkter sto sterkt blant tysk-baltiske intellektuelle på hans tid, som identifiserte seg med Vest-Europa og sto i sterk motsetning til det såkalte asiatiske og østlige russiske barbari.\nPå 1920- og 1930-tallet ble slike oppfatninger knyttet sammen med antikommunismen etter oktoberrevolusjonen. Esperantos sterke stilling i arbeiderbevegelsen og Sovjetunionen (før 1936) førte til at blant andre nazistene propaganderte at Esperanto var et jødisk og kommunistisk språk. Mot det framstilte noen occidenal-tilhengere sitt språk som et bolverk for vestlig sivilisasjon og antikommunisme i verdensspråk-bevegelsen.\n\n\n",
+          "document_id": 658
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvor regjerte Qing-keiserne?",
+              "id": 910,
+              "answers": [
+                {
+                  "answer_id": 924,
+                  "document_id": 651,
+                  "question_id": 910,
+                  "text": "i Kina",
+                  "answer_start": 382,
+                  "answer_end": 388,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var keiser i Kina før Guangxu-keiseren tok over i 1875?",
+              "id": 912,
+              "answers": [
+                {
+                  "answer_id": 925,
+                  "document_id": 651,
+                  "question_id": 912,
+                  "text": "Tongzhi",
+                  "answer_start": 596,
+                  "answer_end": 603,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva var grunnen til at det kunne være vanskelig å forstå hva keiser Guangxu sa?",
+              "id": 913,
+              "answers": [
+                {
+                  "answer_id": 926,
+                  "document_id": 651,
+                  "question_id": 913,
+                  "text": "hans alvorlige lungesykdom",
+                  "answer_start": 798,
+                  "answer_end": 824,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble Guangxu keiser i Kina?",
+              "id": 911,
+              "answers": [
+                {
+                  "answer_id": 927,
+                  "document_id": 651,
+                  "question_id": 911,
+                  "text": "i februar 1875",
+                  "answer_start": 657,
+                  "answer_end": 671,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem regjerte i Kina frem til keiser Guangxu ble myndig?",
+              "id": 914,
+              "answers": [
+                {
+                  "answer_id": 928,
+                  "document_id": 651,
+                  "question_id": 914,
+                  "text": "enkekeiserinnen Cixi",
+                  "answer_start": 940,
+                  "answer_end": 960,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Guangxu-keiseren\nGuangxu-keiseren (kinesisk: 光緒, pinyin: Guāngxù, født 14. august 1871, død 14. november 1908 i Beijing – keiser fra 25. februar 1875, født Zaitian 載湉; posthume navn: 同天崇運大中至正經文緯武仁孝睿智端儉寬勤景皇帝, Tongtian Chongyun Dazhong Zhizheng Jingwen Weiwu Renxiao Ruizhi Duanjian Kuanqin Jing; tempelnavn: 清德宗, Qing Dezong), var den niende i rekken av de Qing-keisere som regjerte i Kina. Han stammet fra en sidelinje i Qing-dynastiet, men ble, som ledd av av en plan klekket ut av en av hoffets rivaliserende prinser, adoptert av sin tante Cixi som fikk igjennom at han etterfulgte hennes sønn Tongzhi på keisertronen.\nHan besteg dragetronen som treåring i februar 1875.\nGuāngxù var en sykelig og viljesvak gutt, og det sies at det var svært vanskelig for fremmede å oppfatte hva han sa, grunnet hans alvorlige lungesykdom.\nHans regjeringstid varte fra 1875 til 1908, men i praksis var hans innflytelse liten. Frem til han ble myndig var enkekeiserinnen Cixi keiserrikets regent, skjønt i vesentlig grad dirigert av mektige krefter ved hoffet, men også etter det utøvet hun betydelig innflytelse.\nHan regjerte mer eller mindre reelt kun mellom 1889 (da han ble myndig) og 1898. Et av de få betydelige initiativer som keiseren selv tok, var den såkalte hundredagersreformen i 1898. Men reformene kom både for brått på i et Kina som fremdeles var fast forankret i neokonfucianismen og andre tradisjonselementer, men kom også på kollisjonskurs med enkekeiserinnen. Mange mandariner som var blitt vraket som udugelige av Guangxu, tryglet Cixi om hjelp. Selv om Cixi ikke gjorde noe for å hindree reformene, ble det klart at hennes eneste sjanse til å bevare sin innflytelse var ved statskupp. Guangxu ble klar over at en slik plan forelå, og bad reformistene om å tenke ut mottrekk. De bestemte seg for å søke hjelp fra Yuan Shikai som kommanderte en svært modernisert hær, om enn bare på 6000 mann. Cixi på sin side satte sin lit til Ronglus hær i Tianjin.\n\n\n",
+          "document_id": 651
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva er en standard realkonjunkturmodell?",
+              "id": 969,
+              "answers": [
+                {
+                  "answer_id": 983,
+                  "document_id": 659,
+                  "question_id": 969,
+                  "text": "en modell hvor individene i samfunnet maksimerer nåværende og fremtidig velferd",
+                  "answer_start": 188,
+                  "answer_end": 267,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er forkortelsen for realkonjunkturteori?",
+              "id": 971,
+              "answers": [
+                {
+                  "answer_id": 985,
+                  "document_id": 659,
+                  "question_id": 971,
+                  "text": "RBC",
+                  "answer_start": 61,
+                  "answer_end": 64,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er det mest vanlige og minst kontroversielle velferdsmålet i økonomi?",
+              "id": 970,
+              "answers": [
+                {
+                  "answer_id": 984,
+                  "document_id": 659,
+                  "question_id": 970,
+                  "text": "en såkalt additiv-separabel nyttefunksjon",
+                  "answer_start": 662,
+                  "answer_end": 703,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Realkonjunkturteori\nRealkonjunkturteori (ofte forkortet til «RBC») er det aller enkleste moderne rammeverket for å redegjøre for konjunktursvingninger.\nEn standard realkonjunkturmodell er en modell hvor individene i samfunnet maksimerer nåværende og fremtidig velferd.  Beskrankningene på optimeringsproblemet deres er de fundamentale, reelle nasjonalregnskapssammenhengene:\n* Produksjonstilnærmingen for å måle BNP\n* Inntektstilnærmingen for å måle BNP\n* Utgiftsstilnærmingen for å måle BNP\n* Bevegelsesloven for aggregert produktiv kapitalstokk\n* En stokastisk prosess for total faktorproduktivitet, estimert på historiske serier\nMålet på velferd er vanligvis en såkalt additiv-separabel nyttefunksjon.  Dette er det vanligste og minst kontroversielle velferdsmålet i økonomi.\nDet er flere misforståelser knyttet til såkalt realkonjunkturteori og mye støy som står i veien for reell forståelse.  Den grunnleggende modellen bidrar til tross for sin enkelhet til viktig innsikt. Blant de groveste feilaktige påstandene er:\n* «Ufrivillig arbeidsløshet eksisterer ikke»:  I den aller enkleste modellen som er skissert over eksisterer ikke arbeidsledighet, verken frivillig eller ufrivillig.  I de mest stiliserte modellene hvor bibeskrankningene er de aggregerte nasjonalregnskapssammenhengene er fokuset for modellen gjennomsnittlig antall timer jobbet.  Forskere har studert og fortsetter å studere modeller som kan redegjøre for variasjoner i arbeidsledighet og ledige stillinger over konjunktursykelen\n* «Alle markeder klarerer til enhver tid»: Igjen, i de enkleste og mest stiliserte modellene, hvor bibeskrankningene er de aggregerte nasjonalregnskapssammenhengene, så blir det implisitt antatt at alle markeder er konkurranseutsatte.  Dette er primært for å sikre konsistens mellom nasjonalregnskapssammenhengene i bibeskrankningene.   Forskere har studert og fortsetter å studere modeller som kan redegjøre for imperfekt konkurranse og hvordan det kan bidra til konjunktursvingninger\n* «Realkonjunkturmodeller kan ikke brukes til å studere nominelle størrelser som inflasjon»:  Igjen, feil.  Ett eksempel: såkalt nykeynesiansk teori er essensielt realkonjunkturteori med nominelle friksjoner.\n* «Teknologiske sjokk alene vanskelig kan forklare store konjunktursvingninger»:  Det som omtales som «teknologisjokk» er residualer i total faktorproduktivitet.\n\n\n",
+          "document_id": 659
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvor mange konger var Eleonore, hertuginne av Aquitaine, gift med?",
+              "id": 924,
+              "answers": [
+                {
+                  "answer_id": 938,
+                  "document_id": 653,
+                  "question_id": 924,
+                  "text": "to",
+                  "answer_start": 333,
+                  "answer_end": 335,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var den mest ettertraktede bruden i Europa i  1137?",
+              "id": 927,
+              "answers": [
+                {
+                  "answer_id": 939,
+                  "document_id": 653,
+                  "question_id": 927,
+                  "text": "Eleonore av Aquitaine",
+                  "answer_start": 0,
+                  "answer_end": 21,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva het de to barna til Eleonore og Ludvig VII?",
+              "id": 929,
+              "answers": [
+                {
+                  "answer_id": 943,
+                  "document_id": 653,
+                  "question_id": 929,
+                  "text": "Marie og Alix",
+                  "answer_start": 1000,
+                  "answer_end": 1013,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor ble Elenore fengslet av Henrik II?",
+              "id": 932,
+              "answers": [
+                {
+                  "answer_id": 946,
+                  "document_id": 653,
+                  "question_id": 932,
+                  "text": "fordi hun hadde støttet sønnens opprør mot ham",
+                  "answer_start": 1928,
+                  "answer_end": 1974,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva ble Ludvig VII og Eleonore enige om etter det mislykkede andre korstog?",
+              "id": 928,
+              "answers": [
+                {
+                  "answer_id": 940,
+                  "document_id": 653,
+                  "question_id": 928,
+                  "text": "å oppløse sitt ekteskap",
+                  "answer_start": 872,
+                  "answer_end": 895,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor mange konger fødte Eleonore, hertuginne av Aquitaine?",
+              "id": 926,
+              "answers": [
+                {
+                  "answer_id": 941,
+                  "document_id": 653,
+                  "question_id": 926,
+                  "text": "to",
+                  "answer_start": 364,
+                  "answer_end": 366,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når giftet Eleonore seg med den elleve år yngre Henrik av Normandie?",
+              "id": 931,
+              "answers": [
+                {
+                  "answer_id": 945,
+                  "document_id": 653,
+                  "question_id": 931,
+                  "text": "Den 18. mai 1152",
+                  "answer_start": 1437,
+                  "answer_end": 1453,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor gammel var Eleonore da hun ble hertuginne av Aquitaine?",
+              "id": 925,
+              "answers": [
+                {
+                  "answer_id": 942,
+                  "document_id": 653,
+                  "question_id": 925,
+                  "text": "femten år gammel",
+                  "answer_start": 518,
+                  "answer_end": 534,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Eleonore av Aquitaine\n:Ikke å forveksle med Leonora av Aquitaine\nEleonore, hertuginne av Aquitaine (født 1122, død 1. april 1204) var en av de rikeste og mektigste kvinnene i Vest-Europa i løpet av høymiddelalderen. Hun var beskytter av diktere og forfattere som Wace, Benoît de Sainte-Maure, og Chrétien de Troyes. Hun var gift med to konger, og ble selv mor til to konger.\nVåpenskjoldet til hertugdømmet Aquitaine.\nEleonore etterfulgte sin far som suo jure hertuginne av Aquitaine og grevinne av Poitiers da hun var femten år gammel, og ble med det den mest ettertraktede brud i Europa. Tre måneder etter sin tiltredelse giftet hun seg med Ludvig (VII), sønn og yngre medhersker av hennes verge, kong Ludvig VI av Frankrike. Som Frankrikes dronning deltok hun i det mislykkede andre korstog. Kort tid etter at korstoget var avsluttet ble Ludvig VII og Eleonore enige om å oppløse sitt ekteskap. Skilsmissen var dels motivert av hennes eget ønske, dels at de to barn hun hadde født begge var døtre, Marie og Alix, og ikke en etterlengtet sønn. Det kongelige ekteskap ble annullert den 11. mars 1152 med den oppgitte grunnen av blodsslektskap av fjerde grad. Deres døtre ble dog erklært legitime og varetekten ble gitt til deres far, mens Eleonores gods og riker som hun hadde tatt med seg inn i ekteskapet ble gitt tilbake til henne.\nSå snart hun kom tilbake til Poitiers fridde hun til den elleve år yngre Henrik, hertug av Normandie. Den 18. mai 1152, seks uker etter at hennes første ekteskap var blitt oppløst, giftet hun seg med Henrik. Den 25. oktober 1154 overtok hennes ektemann den engelske trone og ble konge av England, samt hersker over store områder i dagens Frankrike. I løpet av de neste tretten årene fødte hun Henrik II av England åtte barn: fem sønner, to som ble konger av England, og tre døtre. Imidlertid ble Henrik og Eleonore etter hvert politiske motstandere. Han lot henne fengsle i årene 1173 og 1189 fordi hun hadde støttet sønnens opprør mot ham.\n\n\n",
+          "document_id": 653
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva studerte Damian før 1028?",
+              "id": 939,
+              "answers": [
+                {
+                  "answer_id": 953,
+                  "document_id": 655,
+                  "question_id": 939,
+                  "text": "grammatikk, retorikk og jus",
+                  "answer_start": 631,
+                  "answer_end": 658,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem grunnla orderen Avellanerne?",
+              "id": 942,
+              "answers": [
+                {
+                  "answer_id": 956,
+                  "document_id": 655,
+                  "question_id": 942,
+                  "text": "Romuald av Ravenna",
+                  "answer_start": 1379,
+                  "answer_end": 1397,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble Avellanerne og Kamaldulenserne slått sammen?",
+              "id": 944,
+              "answers": [
+                {
+                  "answer_id": 957,
+                  "document_id": 655,
+                  "question_id": 944,
+                  "text": "i 1569",
+                  "answer_start": 1551,
+                  "answer_end": 1557,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når døde foreldrene til Peter Damian?",
+              "id": 938,
+              "answers": [
+                {
+                  "answer_id": 952,
+                  "document_id": 655,
+                  "question_id": 938,
+                  "text": "tidlig",
+                  "answer_start": 309,
+                  "answer_end": 315,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var Kamaldulenserne?",
+              "id": 943,
+              "answers": [
+                {
+                  "answer_id": 958,
+                  "document_id": 655,
+                  "question_id": 943,
+                  "text": "en reformert gren av Benediktinerordenen",
+                  "answer_start": 1470,
+                  "answer_end": 1510,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor ble Peter Damian født?",
+              "id": 936,
+              "answers": [
+                {
+                  "answer_id": 950,
+                  "document_id": 655,
+                  "question_id": 936,
+                  "text": "i Ravenna i Italia",
+                  "answer_start": 222,
+                  "answer_end": 240,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor ble Damian velstående i Parma?",
+              "id": 941,
+              "answers": [
+                {
+                  "answer_id": 955,
+                  "document_id": 655,
+                  "question_id": 941,
+                  "text": "Han startet en egen skole, og fikk mange studenter",
+                  "answer_start": 713,
+                  "answer_end": 763,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var Peter Damian?",
+              "id": 935,
+              "answers": [
+                {
+                  "answer_id": 951,
+                  "document_id": 655,
+                  "question_id": 935,
+                  "text": "en av Den katolske kirkes kardinaler",
+                  "answer_start": 133,
+                  "answer_end": 169,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble Peter Damian professor i Parma?",
+              "id": 940,
+              "answers": [
+                {
+                  "answer_id": 954,
+                  "document_id": 655,
+                  "question_id": 940,
+                  "text": "i 1028",
+                  "answer_start": 667,
+                  "answer_end": 673,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Peter Damian\nVita Beati Romualdi\nPeter Damian (italiensk Pietro Damiani, latin Petrus Damiani) (født 1007, død 22. februar 1072) var en av Den katolske kirkes kardinaler og er utropt til helgen og kirkelærer.\nHan ble født i Ravenna i Italia, og var yngste sønn i en nokså fattig adelsfamilie. Foreldrene døde tidlig, og han ble tatt hånd om av en eldre bror, som mishandlet ham og brukte ham som ulønnet tjener og griserøkter. En annen bror, som var erkeprest i Ravenna, adopterte ham etter en tid, og sørget for at han fikk en god utdannelse. Denne broren het Damian, og Peter tok dette navnet som sitt etternavn.\nEtter studier i grammatikk, retorikk og jus ble han i 1028, bare 21 år gammel, professor i Parma. Han startet en egen skole, og fikk mange studenter, noe som i sin tur gjorde ham meget velstående.\nHan var en from mann, og begynte å utføre botsøvelser og levde et strengt liv. Han fastet, holdt våkenetter, og bar en skjorte av hår under klærne. Han ble også kjent for å gi store almisser, og nesten hver dag var fattige invitert til et måltid hjemme hos ham. På et tidspunkt før 1035 fikk han besøk av to munker fra Fonte Avellana. De fortalte om klosterlivet, og i 1035 sluttet han seg til dem etter å ha holdt en førti dager lang retrett i en liten celle. Han ble straks akseptert inn i ordenen.\nOrdenen han gikk inn i kalte seg Avellanerne, og var grunnlagt av Romuald av Ravenna i 1012. Den fulgte Benedikts regel, og var knyttet til Kamaldulenserne, en reformert gren av Benediktinerordenen. De to ordnene ble formelt slått sammen i 1569. Munkene bodde to og to i små hytter eller klostre, som de ikke fikk forlate. De avla også livsvarig taushetsløfte.\nDet strenge livet førte til at Peter fikk kroniske søvnproblemer og andre helseplager. I en hvileperiode leste han spesielt mye i Bibelen og patristiske skrifter, og ble etter at han var frisk igjen utpekt til å forelese for medbrødrene. Guido av Pomposa inviterte ham også til å forelese i andre klostre i nærheten. Peter skrev i 1042, en biografi om Romuald.\n\n\n",
+          "document_id": 655
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva skiller markmusa fra klatremusa?",
+              "id": 802,
+              "answers": [
+                {
+                  "answer_id": 811,
+                  "document_id": 637,
+                  "question_id": 802,
+                  "text": "Pelsfargen på oversiden",
+                  "answer_start": 241,
+                  "answer_end": 264,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor når markmusa sjelden 3 års alder i naturen?",
+              "id": 803,
+              "answers": [
+                {
+                  "answer_id": 812,
+                  "document_id": 637,
+                  "question_id": 803,
+                  "text": "på grunn av den store dødeligheten",
+                  "answer_start": 601,
+                  "answer_end": 635,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor mange kull kan en markmushunn få i løpet av en sesong?",
+              "id": 804,
+              "answers": [
+                {
+                  "answer_id": 813,
+                  "document_id": 637,
+                  "question_id": 804,
+                  "text": "fra tre til sju",
+                  "answer_start": 730,
+                  "answer_end": 745,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er den viktigste maten for markmus på vinterstid?",
+              "id": 805,
+              "answers": [
+                {
+                  "answer_id": 814,
+                  "document_id": 637,
+                  "question_id": 805,
+                  "text": "røtter og rotknoller",
+                  "answer_start": 1147,
+                  "answer_end": 1167,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva spiser markmusa på sommeren?",
+              "id": 806,
+              "answers": [
+                {
+                  "answer_id": 816,
+                  "document_id": 637,
+                  "question_id": 806,
+                  "text": "gress, starr og urter",
+                  "answer_start": 1105,
+                  "answer_end": 1126,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilken type mus finnes i Norge kun på Svalbard?",
+              "id": 807,
+              "answers": [
+                {
+                  "answer_id": 817,
+                  "document_id": 637,
+                  "question_id": 807,
+                  "text": "østmarkmus",
+                  "answer_start": 444,
+                  "answer_end": 454,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når spiser markmusa blant annet gress, starr og urter?",
+              "id": 809,
+              "answers": [
+                {
+                  "answer_id": 818,
+                  "document_id": 637,
+                  "question_id": 809,
+                  "text": "Sommerstid",
+                  "answer_start": 1076,
+                  "answer_end": 1086,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor er det bare de 10-15 nederste cm. av trærne som blir skadet av barking fra markmus?",
+              "id": 808,
+              "answers": [
+                {
+                  "answer_id": 815,
+                  "document_id": 637,
+                  "question_id": 808,
+                  "text": "Siden markmusa ikke klatrer i trær",
+                  "answer_start": 1284,
+                  "answer_end": 1318,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Markmus\nMarkmusa tilhører de såkalte korthalemusene. Halen er kortere enn halve kroppslengden, øyne og ører er relativt små, de sistnevnte er nesten skjult i pelsen. Dette skiller den fra husmus og skogmus, som har lang hale og større ører. Pelsfargen på oversiden er gråbrun, noe som skiller markmusa fra bl.a. den mer rødbrune klatremusa, som også har kort hale. Markmusas nærmeste slektninger i Norge er de svært like artene fjellmarkmus og østmarkmus. Den sistnevnte finnes i Norge kun på Svalbard.\nMarkmusa kan oppnå en vekt på ca. 85 gram. Den kan bli ca. tre år, men i naturen er dette sjelden på grunn av den store dødeligheten.\nEt markmuskull består oftest av fire-seks unger, men over ti forekommer også. En hunn kan få fra tre til sju kull i løpet av sommerhalvåret, og markmusa er altså meget produktiv. Bestanden varierer mange steder kraftig fra år til år, med \"museår\" hvert tredje eller fjerde år, såkalte smågnagersvingninger. De er da viktige byttedyr for rødrev, røyskatt, rovfugler og ugler, som i slike år kan få fram mange unger.\nMarkmusa er planteeter. Sommerstid spiser den særlig gress, starr og urter. Om vinteren utgjør røtter og rotknoller en viktig del av føden. Den kan da også gnage bark, og det kan oppstå store skader i frukthager som følge av dette. Siden markmusa ikke klatrer i trær, er det de 10-15 nederste cm av stammen som blir barket. Treet bli vanligvis fullstendig ringbarket, og følgelig drept. For å få tak i barken på bl.a. bringebær og bjørnebær, feller markmusa skuddene nede ved bakken på samme måte som en bever gjør med større trær. Deretter deler den skuddene opp i passelige biter som den tar med til en egen spiseplass. Her blir barken spist, før musa så henter en ny bit. På slike spiseplasser kan det samle seg en haug av pinner som minner om bevergnagde pinner i miniatyr.\n\n\n",
+          "document_id": 637
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva var Rosshavsgruppens oppgave?",
+              "id": 817,
+              "answers": [
+                {
+                  "answer_id": 827,
+                  "document_id": 639,
+                  "question_id": 817,
+                  "text": "å legge ut en rekke forsyningsdepoter over Rossbarrieren fra McMurdo-sundet til Beardmorebreen",
+                  "answer_start": 289,
+                  "answer_end": 383,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva het fartøyet til Rosshavsgruppen?",
+              "id": 821,
+              "answers": [
+                {
+                  "answer_id": 835,
+                  "document_id": 639,
+                  "question_id": 821,
+                  "text": "Aurora",
+                  "answer_start": 1043,
+                  "answer_end": 1049,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva skrev Shackleton om de som omkom på Endurance-ekspedisjonen?",
+              "id": 822,
+              "answers": [
+                {
+                  "answer_id": 832,
+                  "document_id": 639,
+                  "question_id": 822,
+                  "text": "at de som omkom «ga sine liv for sitt land like sikkert som de som ga sine liv i Frankrike eller Flandern.»",
+                  "answer_start": 2406,
+                  "answer_end": 2513,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når kom Aurora tilbake for å hente de strandede fra Rosshavsgruppen?",
+              "id": 824,
+              "answers": [
+                {
+                  "answer_id": 836,
+                  "document_id": 639,
+                  "question_id": 824,
+                  "text": "januar 1917",
+                  "answer_start": 2150,
+                  "answer_end": 2161,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem ledet Endurance-ekspedisjonens hovedgruppe?",
+              "id": 818,
+              "answers": [
+                {
+                  "answer_id": 828,
+                  "document_id": 639,
+                  "question_id": 818,
+                  "text": "Shackleton",
+                  "answer_start": 498,
+                  "answer_end": 508,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor skulle Endurance-ekspedisjonens hovedgruppe gå i land?",
+              "id": 819,
+              "answers": [
+                {
+                  "answer_id": 830,
+                  "document_id": 639,
+                  "question_id": 819,
+                  "text": "ved Weddellhavet",
+                  "answer_start": 519,
+                  "answer_end": 535,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor var Endurance-ekspedisjonen avhengig av Rosshavsgruppend deopter?",
+              "id": 820,
+              "answers": [
+                {
+                  "answer_id": 831,
+                  "document_id": 639,
+                  "question_id": 820,
+                  "text": "Siden hovedgruppen ikke kunne frakte tilstrekkelig drivstoff og forsyninger for hele distansen",
+                  "answer_start": 633,
+                  "answer_end": 727,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilken offentlige annerkjennelse fikk Rosshavsgruppen til slutt?",
+              "id": 823,
+              "answers": [
+                {
+                  "answer_id": 833,
+                  "document_id": 639,
+                  "question_id": 823,
+                  "text": "Albertmedaljer",
+                  "answer_start": 2317,
+                  "answer_end": 2331,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor seilte Shackleton fra i august 1914?",
+              "id": 826,
+              "answers": [
+                {
+                  "answer_id": 837,
+                  "document_id": 639,
+                  "question_id": 826,
+                  "text": "London",
+                  "answer_start": 832,
+                  "answer_end": 838,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Rosshavsgruppen\nKart over rutene til «Endurance», «James Caird» og «Aurora», depotruten til Rosshavsgruppen og den planlagte transantarktiske ruten til Weddellhavsgruppen:\nRosshavsgruppen var en del av Ernest Shackletons Endurance-ekspedisjon til Antarktis (1914–17). Gruppens oppgave var å legge ut en rekke forsyningsdepoter over Rossbarrieren fra McMurdo-sundet til Beardmorebreen, en rute som var etablert av tidligere antarktisekspedisjoner. Ekspedisjonens hovedgruppe skulle under ledelse av Shackleton gå i land ved Weddellhavet på motsatt side av kontinentet, og deretter gå tvers over iskalotten via Sydpolen til Rosshavet. Siden hovedgruppen ikke kunne frakte tilstrekkelig drivstoff og forsyninger for hele distansen, var de avhengige av Rosshavsgruppens depoter på den siste fjerdedelen av reisen.\nShackleton seilte fra London i august 1914 med ekspedisjonsskipet «Endurance» med kurs mot Weddellhavet. På samme tid samlet medlemmene av Rosshavsgruppen seg i Australia før avreisen til Rosshavet med det andre ekspedisjonsskipet, «Aurora». Organisatoriske og økonomiske problemer forsinket deres avreise til desember 1914, noe som forkortet den første sesongen med depotlegging. Etter ankomsten strevde den uerfarne gruppen med å mestre kunsten å ferdes i polarstrøk, og de mistet flesteparten av sledehundene sine. Nedturen fortsatte da «Aurora» slet seg løs av moringene under et kraftig uvær og ikke var i stand til å vende tilbake. Landgruppen var dermed overlatt til seg selv i det vinteren sto for døra.\nTil tross for disse tilbakeslagene og ytterligere problemer som interne krangler, ekstremvær, sykdom og tre dødsfall, maktet Rosshavsgruppen å gjennomføre sin oppgave til fulle i løpet av den andre sesongen i Antarktis. Dette skulle imidlertid vise seg å være til ingen nytte, da Shackletons hovedekspedisjon ikke klarte å nå land, og «Endurance» ble knust av isen og sank i Weddellhavet. Shackleton klarte omsider å bringe besetningen i sikkerhet, men den transkontinentale ferden kunne ikke gjennomføres og depotene som hadde blitt lagt ut av Rosshavsgruppen ble derfor ikke benyttet. Rosshavsgruppen forble strandet fram til januar 1917, da «Aurora», som hadde blitt reparert i New Zealand, kom for å hente dem. Offentlig anerkjennelse av deres innsats lot vente på seg, men omsider ble fire Albertmedaljer tildelt medlemmer av gruppen, to av dem posthumt. Shackleton skrev senere at de som omkom «ga sine liv for sitt land like sikkert som de som ga sine liv i Frankrike eller Flandern.»\n\n\n",
+          "document_id": 639
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvem var grunnlegger av avisa Christianssandsposten, som eksisterte frem til 1846?",
+              "id": 833,
+              "answers": [
+                {
+                  "answer_id": 838,
+                  "document_id": 640,
+                  "question_id": 833,
+                  "text": "Johan Reinert Reiersen",
+                  "answer_start": 23,
+                  "answer_end": 45,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble avisen Christianssandsposten opprettet?",
+              "id": 834,
+              "answers": [
+                {
+                  "answer_id": 839,
+                  "document_id": 640,
+                  "question_id": 834,
+                  "text": "i 1839",
+                  "answer_start": 457,
+                  "answer_end": 463,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når dro Johan Reiersen til USA for første gang?",
+              "id": 835,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Hvor slo Johan Reiersen og følget hans seg ned i 1845?",
+              "id": 838,
+              "answers": [
+                {
+                  "answer_id": 845,
+                  "document_id": 640,
+                  "question_id": 838,
+                  "text": "i Henderson County",
+                  "answer_start": 1601,
+                  "answer_end": 1619,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem giftet Johan Reiersen seg med etter at hans første kone døde?",
+              "id": 839,
+              "answers": [
+                {
+                  "answer_id": 846,
+                  "document_id": 640,
+                  "question_id": 839,
+                  "text": "sin brors enke Ouline Jacobine",
+                  "answer_start": 2003,
+                  "answer_end": 2033,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva var Johan Reinert Reiersen en foregangsmann for?",
+              "id": 832,
+              "answers": [
+                {
+                  "answer_id": 847,
+                  "document_id": 640,
+                  "question_id": 832,
+                  "text": "norsk utvandring til USA",
+                  "answer_start": 199,
+                  "answer_end": 223,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var Johan Reinert Reisersens kone frem til 1951?",
+              "id": 836,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Når emigrerte Johan Reiersen til USA fra Norge?",
+              "id": 837,
+              "answers": [
+                {
+                  "answer_id": 843,
+                  "document_id": 640,
+                  "question_id": 837,
+                  "text": "i 1845",
+                  "answer_start": 1490,
+                  "answer_end": 1496,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Johan Reinert Reiersen\nJohan Reinert Reiersen (født 17. april 1810 i Vestre Moland, død 6. september 1864 i Prairieville, Texas, USA) var en norsk redaktør, oversetter, skribent og foregangsmann for norsk utvandring til USA.\nHan var født i Norge, men kom til Danmark med understøttelse av Jacob Aall, og begynte å arbeide oversettelse av romaner, for en stor del offentliggjort i tidsskrifter redigert av ham. Etter å ha vendt tilbake til Norge grunnla han i 1839 Christianssandsposten, som besto inntil 1846.\nI 1843 finansierte en gruppe potensielle utvandrere reise for Reiersen til USA, med den hensikt at han skulle lokalisere et egnet sted for en norsk koloni og samle informasjon til en håndbok om forholdene i landet. Etter å ha besøkt flere norske kolonier, ble han i New Orleans av konsulen for den uavhengige Republikken Texas anbefalt å reise dit. I Austin møtte han president Sam Houston, som oppmuntret Reiersen til å bringe norske innvandrere til Texas.\nTilbake i Norge utga Reiersen i 1844 Veiviser for norske emigranter, med informasjon om naturforhold, handel, industri og styresett i USA generelt samt forholdene i Midtvesten og Texas spesielt. Boken argumenterte sterkt for utvandring. Reiertsen sammenlignet her og andre steder almuens muligheter i USA og Norge i så krasse ordelag at han fikk motstand fra flere hold i Norge. Veiviseren ble imidlertid en viktig inspirasjonskilde for kommende norske emigranter.\nSammen med en liten gruppe utvandrere emigrerte Reiersen i 1845. Etter at Republikken Texas ble annektert som USAs 28. delstat i desember samme år, slo gruppen deg ned i Henderson County. De ga området navnet Normandy, men fra 1848 ble bare navnet til det nærliggende Brownsboro brukt. I 1850 etablerte Reiersen sammen med 14 familier fra Brownsboro en ny koloni på grensen mellom Kaufman County og Van Zandt County. De ga stedet navnet Four Mile Prairie, senere endret til Prairieville. Reiersens kone Henrietta Christine døde i 1851. Han giftet seg kort tid etter med sin brors enke Ouline Jacobine, og levde resten av sitt liv som gårdbruker i Prairieville. Han fortsatte imidlertid fram til sin død å polemisere for norsk utvandring, i form av innlegg i norske aviser. Før avreisen fra Norge i 1845 hadde han også grunnlagt tidsskriftet Norge og Amerika, et nyhetsblad for utvandrersaken som han fortsatte å redigere fra Texas. Tidsskriftet gikk imidlertid inn to år senere.\n\n\n",
+          "document_id": 640
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvordan kan Draugen opptre?",
+              "id": 851,
+              "answers": [
+                {
+                  "answer_id": 855,
+                  "document_id": 642,
+                  "question_id": 851,
+                  "text": "som enkeltvesen, men og sammen med andre drauger",
+                  "answer_start": 1080,
+                  "answer_end": 1128,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er landdrauger?",
+              "id": 853,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Når kom Norske Huldre-Eventyr og Folkesagn ut for første gang?",
+              "id": 854,
+              "answers": [
+                {
+                  "answer_id": 857,
+                  "document_id": 642,
+                  "question_id": 854,
+                  "text": "i 1845",
+                  "answer_start": 399,
+                  "answer_end": 405,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor fant Asbjørnsen folkefortellinger som ikke fikk plass i eventyrsamlingene?",
+              "id": 850,
+              "answers": [
+                {
+                  "answer_id": 854,
+                  "document_id": 642,
+                  "question_id": 850,
+                  "text": "på ferdene sine",
+                  "answer_start": 500,
+                  "answer_end": 515,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem er ofte jeg-personen i Asbjørnsens rammefortellinger?",
+              "id": 852,
+              "answers": [
+                {
+                  "answer_id": 856,
+                  "document_id": 642,
+                  "question_id": 852,
+                  "text": "han sjøl",
+                  "answer_start": 1822,
+                  "answer_end": 1830,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Norske Huldre-Eventyr og Folkesagn\nNorske Folke- og Huldre-Eventyr i Udvalg. Førsteutgaven med nissebindet, utgitt i København i 1879.\nNorske Folke- og Huldre-Eventyr i Udvalg. Andreutgaven med huldrebindet, utgitt i København  i 1896.\nNorske Huldre-Eventyr og Folkesagn er tittelen på Peter Christen Asbjørnsens gjenfortellinger av sagn, memorater og folketro fra levende folketradisjon, som utkom i 1845 (Første Samling) og i 1848 (Anden Samling). Det tilfanget av folkeminner som Asbjørnsen samla på ferdene sine, og som ikke hørte hjemme i eventyrsamlingene, har fått plass her.\nDet dreier seg om fortellinger der folk har kommet ut for ulike slags vetter til lands og til vanns. Vettene  opptrer i folketradisjonen dels enkeltvis, dels i større samfunn og kalles gjerne huldrefolk, tussefolk/tusser, tuftefolk, haugfolk osv.. Gjengangere/dauinger/landdrauger og sjødrauger, dvs gjengangere etter druknede mennesker som ikke er kommet i viet jord, utgjør egne grupper. Huldra kan opptre både alene og i samfunn med andre underjordsfolk. På tilsvarende måte kan Draugen opptre som enkeltvesen, men og sammen med andre drauger (jf. «Tuftefolket paa Sandflesen»). Slike vesener opptrer både i sagn/fabulat, og i personlige opplevelser fra manns minne, dvs. memorat. Asbjørnsens betegnelse huldreeventyr, kan forstås som noe i retning av memorat. Asbjørnsen skilte imidlertid ikke helt klart mellom memorat og fabulat/sagn, slik det er vanlig i moderne folkloristikk. Verken hulder eller draug hører til i eventyrgenren, mens troll og trollkjerringer kan forekomme begge steder. I Huldreeventyr og folkesagn forekommer det imidlertid enkelte fortellinger fra grenselandet mellom eventyr og sagn.\nLitterær metode\nAsbjørnsens metode var å sette fortellinger av denne typen inn i rammefortellinger, med en jeg-person (oftest han sjøl), som opptrer som skogs- eller fjellvandrer, skiløper, gjerne med rifle eller fiskestang, gjest i et lag, folkeminnesamler – og, i blant, som forteller. I rammefortellingene legges det til rette for naturlige fortellesituasjoner. Framgangsmåten kan minne noe om en form som er kjent fra romantikken; bymennesket som begir seg ut i naturen og der møter folket og folkets kultur. Asbjørnsen utnytter imidlertid formen på en særegen måte. I naturskildringene røper Asbjørnsen skarp observasjonsevne, lyrisk sans og naturhistoriske realkunnskaper.\n\n\n",
+          "document_id": 642
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva er flertallsformen av latinske illuminatus?",
+              "id": 840,
+              "answers": [
+                {
+                  "answer_id": 859,
+                  "document_id": 643,
+                  "question_id": 840,
+                  "text": "Illuminati",
+                  "answer_start": 46,
+                  "answer_end": 56,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor mange medlemmer hadde Illuminatus-ordenen sannsynligvis på sitt meste?",
+              "id": 843,
+              "answers": [
+                {
+                  "answer_id": 862,
+                  "document_id": 643,
+                  "question_id": 843,
+                  "text": "omkring 2 000",
+                  "answer_start": 524,
+                  "answer_end": 537,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilke historiske hendelser har Illuminatus-ordenen senere blitt beskyldt for å stå bak?",
+              "id": 844,
+              "answers": [
+                {
+                  "answer_id": 863,
+                  "document_id": 643,
+                  "question_id": 844,
+                  "text": "blant annet første og andre verdenskrig, kapitalismen, kommunismen, nasjonalsosialismen, sionismen, aids, FN, Vietnamkrigen, 11. september-angrepene, attentatet mot John F. Kennedy og svært mange andre kriger, organisasjoner, sykdommer og lignende",
+                  "answer_start": 2027,
+                  "answer_end": 2274,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor flyktet Adam Weishaupt fra Bayern?",
+              "id": 845,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Hva heter Dan Browns underholdningsroman fra år 2000?",
+              "id": 848,
+              "answers": [
+                {
+                  "answer_id": 865,
+                  "document_id": 643,
+                  "question_id": 848,
+                  "text": "Engler og demoner",
+                  "answer_start": 2408,
+                  "answer_end": 2425,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor ligger byen Ingolstadt?",
+              "id": 849,
+              "answers": [
+                {
+                  "answer_id": 867,
+                  "document_id": 643,
+                  "question_id": 849,
+                  "text": "i Bayern",
+                  "answer_start": 207,
+                  "answer_end": 215,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når levde Adam Weishaupt?",
+              "id": 841,
+              "answers": [
+                {
+                  "answer_id": 860,
+                  "document_id": 643,
+                  "question_id": 841,
+                  "text": "1748–1830",
+                  "answer_start": 183,
+                  "answer_end": 192,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan ønsket Illuminati å gjøre menneskers kontroll over andre mennesker overflødig?",
+              "id": 842,
+              "answers": [
+                {
+                  "answer_id": 861,
+                  "document_id": 643,
+                  "question_id": 842,
+                  "text": "gjennom opplysning og moralsk forbedring",
+                  "answer_start": 429,
+                  "answer_end": 469,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem ga ut Proofs of a Conspiracy i 1797?",
+              "id": 846,
+              "answers": [
+                {
+                  "answer_id": 866,
+                  "document_id": 643,
+                  "question_id": 846,
+                  "text": "den skotske professoren John Robison",
+                  "answer_start": 1617,
+                  "answer_end": 1653,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når var den franske revolusjonen?",
+              "id": 847,
+              "answers": [
+                {
+                  "answer_id": 864,
+                  "document_id": 643,
+                  "question_id": 847,
+                  "text": "1789–1799",
+                  "answer_start": 1915,
+                  "answer_end": 1924,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Illuminatus-ordenen\nIlluminatus-ordenen eller Illuminati (flertallsform av latin illuminatus, «opplyst») var et tysk hemmelig selskap som ble grunnlagt 1. mai 1776 av Adam Weishaupt (1748–1830) i Ingolstadt i Bayern. Dette var et fristående selskap preget av opplysningsfilosofien som kjempet for fornuft og ytringsfrihet mot autoriteter og fordommer. Hovedmålet var å gjøre menneskers herredømme over andre mennesker overflødig gjennom opplysning og moralsk forbedring. På sitt meste, i 1784, hadde selskapet sannsynligvis omkring 2 000 medlemmer («illuminater»).\nIlluminatus-ordenen ble forbudt av myndighetene i Bayern, først i 1784, da det ble innført et generelt forbud mot hemmelige organisasjoner, deretter i 1785 da Illuminati uttrykkelig ble forbudt. Bayerske myndigheter gjorde store beslag i organisasjonens dokumenter, og utga dem senere til skrekk og advarsel i bokform, noe som gjør at man har god kjennskap til organisasjonen. Da Illuminati ble forbudt i Bayern, flyktet Weishaupt fra landet og gav stort sett opp arbeidet. Organisasjonen ble overtatt av Johann Christoph Bode. Han døde i 1793, og med ham døde også organisasjonen ut.\nHandlingen i Mozarts opera Tryllefløyten fra 1791, som inneholder mange frimurersymboler, har av enkelte blitt tolket som en satirisk framstilling som oppsummerer de bayerske myndighetenes og den katolske kirkes forfølgelser av Illuminatus-ordenen gjennom frimurerlosjenes ritualer i Wien.\nEtter at den franske jesuitten Augustin Barruel utga Mémoires pour servir à l’histoire du Jacobinisme («Erindringer til belysning av jakobinismens historie») i 1797 og 1798, og den skotske professoren John Robison utga Proofs of a Conspiracy («Bevis for en sammensvergelse») i 1797, ble den nedlagte organisasjonen gjenstand for en rekke konspirasjonsteorier. Begge bøkene hevdet at Illuminati eksisterte som en undergrunnsorganisasjon, og stod bak den franske revolusjonen (1789–1799) som et ledd i en større plan om å endre hele verden. Senere har ordenen blitt beskyldt for å stå bak blant annet første og andre verdenskrig, kapitalismen, kommunismen, nasjonalsosialismen, sionismen, aids, FN, Vietnamkrigen, 11. september-angrepene, attentatet mot John F. Kennedy og svært mange andre kriger, organisasjoner, sykdommer og lignende. Ordenen forekommer også ofte i populærkultur som spiller på konspirasjonsteorier, som for eksempel i Dan Browns underholdningsroman Engler og demoner fra 2000.\n\n\n",
+          "document_id": 643
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva er kubuntu en versjon av?",
+              "id": 856,
+              "answers": [
+                {
+                  "answer_id": 875,
+                  "document_id": 644,
+                  "question_id": 856,
+                  "text": "operativsystemet Ubuntu",
+                  "answer_start": 43,
+                  "answer_end": 66,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilken Kubuntu-versjon har støtte for fotohåndteringsprogrammet Digikam?",
+              "id": 858,
+              "answers": [
+                {
+                  "answer_id": 877,
+                  "document_id": 644,
+                  "question_id": 858,
+                  "text": "Kubuntu 6.10",
+                  "answer_start": 1961,
+                  "answer_end": 1973,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem gir kundestøtte for de aller fleste Kubuntu-versjoner?",
+              "id": 859,
+              "answers": [
+                {
+                  "answer_id": 876,
+                  "document_id": 644,
+                  "question_id": 859,
+                  "text": "Canonical",
+                  "answer_start": 1085,
+                  "answer_end": 1094,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "På hvilket språk betyr Kubuntu \"til menneskeheten\"?",
+              "id": 861,
+              "answers": [
+                {
+                  "answer_id": 873,
+                  "document_id": 644,
+                  "question_id": 861,
+                  "text": "bemba",
+                  "answer_start": 806,
+                  "answer_end": 811,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er kodenavnet til Kubuntu 5.04?",
+              "id": 863,
+              "answers": [
+                {
+                  "answer_id": 872,
+                  "document_id": 644,
+                  "question_id": 863,
+                  "text": "Hoary Hedgehog",
+                  "answer_start": 1262,
+                  "answer_end": 1276,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er det Ubuntu og Kubuntu deler?",
+              "id": 855,
+              "answers": [
+                {
+                  "answer_id": 869,
+                  "document_id": 644,
+                  "question_id": 855,
+                  "text": "de samme pakkekildene",
+                  "answer_start": 347,
+                  "answer_end": 368,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan kan Ubuntu og Kubuntu fungere ved siden av hverandre?",
+              "id": 857,
+              "answers": [
+                {
+                  "answer_id": 874,
+                  "document_id": 644,
+                  "question_id": 857,
+                  "text": "ved å installere kubuntu-desktop og ubuntu-desktop pakkene",
+                  "answer_start": 263,
+                  "answer_end": 321,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når utgis Kubuntu?",
+              "id": 860,
+              "answers": [
+                {
+                  "answer_id": 870,
+                  "document_id": 644,
+                  "question_id": 860,
+                  "text": "regelmessig og forutsigbart",
+                  "answer_start": 636,
+                  "answer_end": 663,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble Kubuntu 6.10 gitt ut?",
+              "id": 862,
+              "answers": [
+                {
+                  "answer_id": 871,
+                  "document_id": 644,
+                  "question_id": 862,
+                  "text": "26. oktober 2006",
+                  "answer_start": 2279,
+                  "answer_end": 2295,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Kubuntu\nKubuntu er en offisiell versjon av operativsystemet Ubuntu, som benytter KDE som standard skrivebordsmiljø istedenfor GNOME.\nDet er en del av Ubuntu-prosjektet og bruker det samme underliggende systemet. Kubuntu og Ubuntu kan virke ved siden av hverandre ved å installere kubuntu-desktop og ubuntu-desktop pakkene. Kubuntu og Ubuntu deler de samme pakkekildene. Fra og med Dapper Drake (6.06)-utgaven, kunne Kubuntu-CD-er bestilles via tjenesten Shipit.\n:Kubuntu-prosjektet har som mål å bli for KDE det som Ubuntu er for GNOME: en integrert distro med alle funksjonene til Ubuntu, men basert på KDE-skrivebordet. Kubuntu utgis regelmessig og forutsigbart; en ny utgave kommer rett etter en ny KDE-versjon har blitt utgitt. – Fra  Kubuntu-siden på Kubuntu Wiki\nKubuntu betyr «til menneskeheten» på bemba, og «gratis» på Kirundi, og uttales /kùbúntú/.\nUtgivelser\nKubuntu følger den samme navngivningen og versjonsystemet til Ubuntu. Hver utgave har samme kodenavn som den korresponderende Ubuntu versjonen og et versjonsnummer som svarer til året og måneden utgaven ble utgitt. Canonical tilbyr kundestøtte og sikkerhetsoppdateringer for de fleste Kubuntu-versjonene i 18 måneder etter utgivelsen.\nDen første Kubuntu-utgivelsen var versjon 5.04 (kodenavn Hoary Hedgehog), den 8. april 2005. Den hadde KDE 3.4 inkludert og et utvalg nyttige KDE programmer. Noen av disse finnes ikke i den offisielle KDE, Amarok, Kaffeine, Gwenview, og K3b.\nDen andre utgivelsen, 5.10 (kodenavn Breezy Badger), hadde KDE 3.4.3 og Guidance konfigurasjonsverktøy. Den kom også med Adept, som erstattet Kynaptic for pakkehåndtering, System Settings (et omorganisert kontrollsenter) og KDE Bluetooth. 28. mars 2006 ble KDE 3.5.2 tilgjengelig gjennom en oppdatering via pakkekildene.\nKubuntu 6.06 LTS (kodenavn Dapper Drake) er Kubuntus første Long Term Support-utgave. Den er fortsatt tilgjengelig og vil støttes i ytterligere 3 år for skrivebordsutgaven og 5 år for tjenere.\nKubuntu 6.10 (kodenavn Edgy Eft) kommer med KDE 3.5.5. Denne utgaven legger til støtte for fotohåndteringsprogrammet Digikam og funksjonshjelpeprofiler, for å hjelpe mennesker med funksjonshemninger. «System Settings» ble også omgjort og strømstyring, bærbar-støtte og nettverk ble forbedret. Kubuntu 6.10 ble lansert 26. oktober 2006.\n\n\n",
+          "document_id": 644
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva heter klasehodepine på engelsk?",
+              "id": 873,
+              "answers": [
+                {
+                  "answer_id": 887,
+                  "document_id": 646,
+                  "question_id": 873,
+                  "text": "cluster headache",
+                  "answer_start": 64,
+                  "answer_end": 80,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når kan klasehodepineanfall utløses av små mengder alkohol?",
+              "id": 874,
+              "answers": [
+                {
+                  "answer_id": 889,
+                  "document_id": 646,
+                  "question_id": 874,
+                  "text": "I sykdomsaktive perioder",
+                  "answer_start": 1752,
+                  "answer_end": 1776,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor vanlig er klasehodepine?",
+              "id": 876,
+              "answers": [
+                {
+                  "answer_id": 890,
+                  "document_id": 646,
+                  "question_id": 876,
+                  "text": "relativt sjelden",
+                  "answer_start": 395,
+                  "answer_end": 411,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem lager klassifiseringen for klasehodepine?",
+              "id": 872,
+              "answers": [
+                {
+                  "answer_id": 888,
+                  "document_id": 646,
+                  "question_id": 872,
+                  "text": "Headache Classification Committee",
+                  "answer_start": 287,
+                  "answer_end": 320,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva er et annet navn på nervus trigeminus?",
+              "id": 875,
+              "answers": [
+                {
+                  "answer_id": 891,
+                  "document_id": 646,
+                  "question_id": 875,
+                  "text": "trillingnerven",
+                  "answer_start": 2354,
+                  "answer_end": 2368,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvordan opptrer klasehodepineanfall?",
+              "id": 877,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Klasehodepine\nKlasehodepine eller clusterhodepine (CH) (av eng. cluster headache) er en smertefull hjernelidelse som, i henhold til den internasjonale klassifiseringsstandarden , tilhører gruppen av trigeminal-autonome kefalalgier (TACs). Klassifiseringen utarbeides og vedlikeholdes av Headache Classification Committee og publiseres i regi av International Headache Society (IHS). Lidelsen er relativt sjelden og kjent som en usedvanlig smertefull nervelidelse, med en prevalens i Norges befolkning på omkring  innbyggere. Den er også kjent under pseudonymet selvmordshodepine. «Cluster Headache Awareness Day» er en internasjonal årlig begivenhet som retter søkelyset på klasehodepine. Dagen arrangeres over hele verden den 21. mars hver år, noe som tilsvarer vårjevndøgn.\nKlasehodepine er verken migrene eller spenningshodepine, men derimot en grusomt smertefull nervelidelse, som blant annet involverer dysfunksjoner i sirkadianrytmen, hypothalamus, kryssnettverket mellom mellomhjernen (diencephalon) og midthjernen (mesencephalon), og det trigeminal-autonome nervesystemet.\nLidelsen karakteriseres av voldsomt kraftig ensidig kronisk smerte i forbindelse med ett av øynene, og smerten betraktes som en av de verst tenkelige et menneske kan utstå. Anfallene opptrer i klaser eller klynger (noen ganger også kalt bolker) som varer i alt fra én dag til 12 måneder (typisk  uker), normalt med ett anfall hver annen dag til opp mot åtte anfall i døgnet (typisk  anfall i døgnet). Hvert anfall varer i  minutter (ikke kortere og ikke lengre), mest typisk i omkring  minutter og bare svært sjelden lenger enn 2 timer. Det er mest vanlig å få anfall om natten, men noen har også anfall på dagtid. Nattanfallene er også ofte kraftigere enn daganfallene. I sykdomsaktive perioder kan nye anfall dessuten trigges av ørsmå mengder med alkohol, vanligvis innen én time etter inntak. Andre vasodilaterende midler, som histamin og nitroglyserin, kan også utløse nye anfall.\nSmerten er nesten alltid konsentrert rundt eller (mest typisk) bak det ene øyet og er alltid ensidig, men sykdommen utløser også alltid minst ett eller flere autonome symptomer ipsilateralt til smerten. Opphavet til den intense smerten er vaskulær, og skyldes at blodkar i hodet vasodilerer (utvider seg) og trigger smertereaksjoner i hodets 5. hjernenerve – nervus trigeminus (også kalt trillingnerven). Årsaken er imidlertid fortsatt ukjent, selv om patofysiologien viser at hypothalamus er en sentral del av årsaken.\n\n\n",
+          "document_id": 646
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvor ble Sommer-OL arrangert i 1980?",
+              "id": 888,
+              "answers": [
+                {
+                  "answer_id": 894,
+                  "document_id": 647,
+                  "question_id": 888,
+                  "text": "i Moskva",
+                  "answer_start": 356,
+                  "answer_end": 364,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvilken lagsport var den eneste Norge deltok i i Sommer-OL 2012 i London?",
+              "id": 889,
+              "answers": [
+                {
+                  "answer_id": 895,
+                  "document_id": 647,
+                  "question_id": 889,
+                  "text": "Håndball",
+                  "answer_start": 503,
+                  "answer_end": 511,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem vant Norges første medalje i fekting noen sinne?",
+              "id": 891,
+              "answers": [
+                {
+                  "answer_id": 897,
+                  "document_id": 647,
+                  "question_id": 891,
+                  "text": "Bartosz Piasecki",
+                  "answer_start": 1795,
+                  "answer_end": 1811,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva het den yngste norske deltakeren i Sommer-OL 2012 i London?",
+              "id": 893,
+              "answers": [
+                {
+                  "answer_id": 899,
+                  "document_id": 647,
+                  "question_id": 893,
+                  "text": "Malin Westerheim",
+                  "answer_start": 1247,
+                  "answer_end": 1263,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når startet Somme-OL 2012?",
+              "id": 894,
+              "answers": [
+                {
+                  "answer_id": 900,
+                  "document_id": 647,
+                  "question_id": 894,
+                  "text": "27. juli",
+                  "answer_start": 103,
+                  "answer_end": 111,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var Andreas Thorkildsen?",
+              "id": 896,
+              "answers": [
+                {
+                  "answer_id": 901,
+                  "document_id": 647,
+                  "question_id": 896,
+                  "text": "spydkaster",
+                  "answer_start": 759,
+                  "answer_end": 769,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor ble Sommer-OL arrangert i 2012?",
+              "id": 887,
+              "answers": [
+                {
+                  "answer_id": 893,
+                  "document_id": 647,
+                  "question_id": 887,
+                  "text": "i London",
+                  "answer_start": 89,
+                  "answer_end": 97,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor mange medaljer fikk Norge i OL 2012?",
+              "id": 890,
+              "answers": [
+                {
+                  "answer_id": 896,
+                  "document_id": 647,
+                  "question_id": 890,
+                  "text": "fire",
+                  "answer_start": 1607,
+                  "answer_end": 1611,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem var Norges motstander i finalen i håndball for kvinner i Sommer-OL 2012?",
+              "id": 892,
+              "answers": [
+                {
+                  "answer_id": 898,
+                  "document_id": 647,
+                  "question_id": 892,
+                  "text": "Montenegro",
+                  "answer_start": 1948,
+                  "answer_end": 1958,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Norge under Sommer-OL 2012\nNorge under Sommer-OL 2012. Norge deltok under Sommer-OL 2012 i London, fra 27. juli til 12. august 2012. Dette var Norges tjuefjerde deltakelse i sommer-OL og tredje sommer-OL i London med de tidligere i 1908 og 1948. Norge har deltatt i alle OL siden Sommer-OL 1900 i Paris, utenom Sommer-OL 1904 i St. Louis og Sommer-OL 1980 i Moskva.\nNorges idrettsforbund og olympiske og paralympiske komité sendte totalt 66 utøvere til lekene, 34 menn og 32 kvinner i 14 idrettsgrener. Håndball var den eneste lagidretten som Norge deltok i, og det var kun en deltaker i badminton, terrengsykling, stuping, hestesport, fekting og bryting.\nDet norske laget hadde med flere tidligere olympiske mestere, tre av dem regjerende olympiske mestere (spydkaster Andreas Thorkildsen, roer Olaf Tufte, og Norges kvinnelandslag i håndball). Andre utøvere kan nevnes bueskytteren Bård Nesteng, som gjorde sitt olympiske comeback etter å ha vært borte i tolv år, sprinteren Jaysuma Saidy Ndure, som ble nummer fire i VM i friidrett, svømmeren Sara Nordenstam, som tok bronsemedalje under lekene i 2008, og padleren Mira Verås Larsen, som var Norges flaggbærer. Norges yngste og eldste deltager ved disse lekenes start var henholdsvis skytteren Malin Westerheim (18 år) og brettseileren Jannicke Stålstrøm (42 år). Idrettslaget med flest utøvere i troppen var Larvik Håndballklubb med fem spillere, Byåsen Elite med tre spillere, ellers hadde Kongelig Norsk Seilforening tre seilere og i tillegg hadde Idrettsklubben Våg med både en friidrettsutøver og en håndballspiller.\nNorge dro fra London med totalt fire medaljer (to gull, ett sølv og en bronse) og gjorde dermed sitt dårligste OL siden Sommer-OL 1972. Blant medaljevinnerne var Eirik Verås Larsen, som tok gull under Sommer-OL 2004, og Bartosz Piasecki, som vant Norges første medalje i fekting noensinne. Kvinnelandslaget i håndball klarte å forsvare gullet fra Beijing, etter å ha slått Montenegro i finalen. Bronsemedaljen ble vunnet av landeveissyklisten Alexander Kristoff. Andre norske utøvere som var nær medalje, var blant annet de norsk seilerne Evind Melleby og Petter Morland Pedersen, Thorkildsen og Tufte, og mellomdistanseløperen Henrik Ingebrigtsen.\n\n\n",
+          "document_id": 647
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hvor på øya Khíos ligger byen Khíos?",
+              "id": 898,
+              "answers": [
+                {
+                  "answer_id": 911,
+                  "document_id": 649,
+                  "question_id": 898,
+                  "text": "på østkysten",
+                  "answer_start": 189,
+                  "answer_end": 201,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvorfor bruker noen navnet Khora om byen Khíos på øya Khíos?",
+              "id": 899,
+              "answers": [
+                {
+                  "answer_id": 913,
+                  "document_id": 649,
+                  "question_id": 899,
+                  "text": "for å skille den fra resten av øya som har samme navn",
+                  "answer_start": 570,
+                  "answer_end": 623,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble byen Khíos opprettet av grekerne?",
+              "id": 901,
+              "answers": [
+                {
+                  "answer_id": 915,
+                  "document_id": 649,
+                  "question_id": 901,
+                  "text": "en gang rundt 1000 f.Kr.",
+                  "answer_start": 857,
+                  "answer_end": 881,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva heter hovedstaden på den greske øya Khios?",
+              "id": 895,
+              "answers": [
+                {
+                  "answer_id": 910,
+                  "document_id": 649,
+                  "question_id": 895,
+                  "text": "Khíos",
+                  "answer_start": 11,
+                  "answer_end": 16,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "I hvilket hav ligger den greske øya Khios?",
+              "id": 897,
+              "answers": [
+                {
+                  "answer_id": 912,
+                  "document_id": 649,
+                  "question_id": 897,
+                  "text": "Egeerhavet",
+                  "answer_start": 67,
+                  "answer_end": 77,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor ble Homer født, ifølge tradisjonen?",
+              "id": 900,
+              "answers": [
+                {
+                  "answer_id": 914,
+                  "document_id": 649,
+                  "question_id": 900,
+                  "text": "i Khíos",
+                  "answer_start": 919,
+                  "answer_end": 926,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hva finnes i sentrum av byen Khíos?",
+              "id": 902,
+              "answers": [
+                {
+                  "answer_id": 916,
+                  "document_id": 649,
+                  "question_id": 902,
+                  "text": "administrasjonen, flere museer, den fremste handlegaten Aplotaria, og de kommunale parkene",
+                  "answer_start": 1778,
+                  "answer_end": 1868,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Khíos (by)\nKhíos er hovedstaden på den greske øya Khíos i nordlige Egeerhavet. Siden reformen i kommuneloven i 2011 er den blitt en del av kommunen og prefekturet Khíos. Byen er lokalisert på østkysten av øya motstående til den tyrkiske byen Çeşme. Byen har en befolkning på rundt 32 000 mennesker og er administrative hovedstad og hovedhavnen for både øya og den regionale enheten Khíos. Byen er den ene av åtte kommunale enheter på øya.\nKhíos, 1500-tallet.\nLokalt blir byen ofte referert til som  «Khora» (Χώρα; bokstavelig «byen») eller «Kastro» (Κάστρο, «festning») for å skille den fra resten av øya som har samme navn.\nStedet ble bosatt allerede i oldtiden og byen ble bygd på nordsiden av en naturlig havn. Arkeologiske undersøkelser viser at det har vært bosetninger på det samme stedet som byen siden rundt 6000 f.Kr. Byen ble opprettet av grekere en gang rundt 1000 f.Kr. Tradisjonen hevder at Homer ble født i Khíos (eller Vrontados). Byen hadde en betydelig krigsflåte i antikken, og hadde stor handelsvirksomhet som ga en rikdom som førte til kulturell vekst. I romersk tid fikk byen en nedgang, men den vokste i bysantinsk tid, og i de neste tusen år var byen og øya en av de viktigste provinsene i Østromerriket. Ved 1500-tallet hadde den befestede byen blitt ytterligere befestet av påfølgende herskere til en omfattende middelalderfestning, «Kastro».\nDagens by har ekspandert utover fra «Kastro» og havnen i de siste 200 årene. Etter en ødeleggende jordskjelv i 1881 har byen deretter blitt ombygd i en nyklassisk stil, skjønt my av kaiområdet og utkantene er mer moderne. Selv om befolkningstallet er relativt stabilt, har byen fortsatt å ekspandere med forsteder bygd på i nord og sør. Senteret i byen er fortsatt konsentrert mellom havnen og festningen hvor administrasjonen, flere museer, den fremste handlegaten Aplotaria, og de kommunale parkene ligger.\n\n\n",
+          "document_id": 649
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Hva er en monorail?",
+              "id": 954,
+              "answers": [
+                {
+                  "answer_id": 968,
+                  "document_id": 657,
+                  "question_id": 954,
+                  "text": "en jernbane med bare én skinne",
+                  "answer_start": 80,
+                  "answer_end": 110,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvem er enskinnebanetypen Alweg oppkalt etter?",
+              "id": 957,
+              "answers": [
+                {
+                  "answer_id": 971,
+                  "document_id": 657,
+                  "question_id": 957,
+                  "text": "den svenske forretningsmannen Axel Lennart Wenner-Gren",
+                  "answer_start": 1303,
+                  "answer_end": 1357,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hvor henger toget ved enskinnebanetypen hengebane?",
+              "id": 958,
+              "answers": [
+                {
+                  "answer_id": 972,
+                  "document_id": 657,
+                  "question_id": 958,
+                  "text": "under bjelken",
+                  "answer_start": 1561,
+                  "answer_end": 1574,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Når ble hengebanen i Wuppertal tatt i bruk?",
+              "id": 956,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "Hvilket prisnipp for balansering brukes av enskinnebanen i Wuppertal?",
+              "id": 955,
+              "answers": [
+                {
+                  "answer_id": 970,
+                  "document_id": 657,
+                  "question_id": 955,
+                  "text": "Toget henger under skinnen, i underkant av en bøyleanordning som har hjulene på oversiden",
+                  "answer_start": 364,
+                  "answer_end": 453,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Énskinnebane\nEn énskinnebane (kjent på engelsk og delvis norsk som monorail) er en jernbane med bare én skinne, slik at alle hjulene må stå på linje etter hverandre. Balanseringen av toget kan løses på to måter:\n* Toget er gyrostabilisert. Dette ble bare prøvd under et demonstrasjonsprosjekt i London i 1910, og må derfor betraktes som en historisk kuriositet.\n* Toget henger under skinnen, i underkant av en bøyleanordning som har hjulene på oversiden (se bilde til høyre). Dette prinsippet brukes av hengebanen i Wuppertal (fra 1901).\nI praksis benyttes en videre definisjon: Skinnegangen er så smal i forhold til togets bredde at toget ikke kan få den nødvendige stabilitet ved å bare plassere sitt tyngdepunkt i forhold til de to skinnene, men må i tillegg ha støttehjul mot skinnegangens sider. Resultatet blir en skinnegang som er smal og med en viss høyde, og dermed kan utformes som en stiv bjelke. Denne kan holdes oppe av loddrette søyler, for å på den måten gå over bakkenivåets trafikk eller ujevnheter.\nDet er to hovedtyper fungerende énskinnebaner:\n* Type Alweg: Toget ligger overskrevs på bjelken, det vil si det ligger stabilt, sikret mot avsporing, ved at hver vogns chassis er todelt og strekker seg noe nedover på begge sidene av bjelken. Bjelken for denne typen (type Alweg – etter den svenske forretningsmannen Axel Lennart Wenner-Gren) hindrer vertikal passasjerforflytning mot og fra bakkenivået. Derfor krever denne banetypen høytliggende stasjonsplattformer hvis ikke stasjonsarealet er reservert for banen.\n* Hengebanen: Toget henger under bjelken. Vognene henger på undersiden av 2- eller 4-hjuls boggier (minimale vogner) som kjører på to skinner inne i den hule bjelken. Dermed kan vogner (eller en heis innebygget i en vogn) heises opp eller ned med passasjerer som skal på eller av.\n\n\n",
+          "document_id": 657
+        }
+      ]
+    }
+  ]
+}
