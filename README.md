@@ -19,7 +19,7 @@ Annotators: Fredrik Aas Andreassen and Matias Jentoft
 
 ## Citing
 
-If you publish work that uses or references the data, please cite our [NODALIDA article](). BibEntry: 
+If you publish work that uses or references the data, please cite our [NODALIDA article](https://aclanthology.org/2023.nodalida-1.17/). BibEntry: 
 
 ```
 @InProceedings{IvaAndJen2023,
